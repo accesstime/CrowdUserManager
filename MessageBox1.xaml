@@ -1,0 +1,15 @@
+﻿<Window x:Class="CrowdUserManager.MessageBox1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrowdUserManager"
+        mc:Ignorable="d"
+        Title="Warning" Height="134.023" Width="300" WindowStartupLocation="CenterScreen" Foreground="#FF080808" Background="Black" ResizeMode="NoResize" SizeToContent="Height" BorderBrush="#FF3754D7" BorderThickness="3" Icon="media/index.ico" WindowStyle="None" Topmost="True">
+    <Grid Background="#FF3F3D41" OpacityMask="Black">
+        <Button x:Name="button" Content="Ok" HorizontalAlignment="Center" Margin="110,0,110,12" VerticalAlignment="Bottom" Width="74" Click="button_Click" Height="25" Background="{x:Null}" FontWeight="Bold" BorderBrush="#FF3754D7" BorderThickness="3" Foreground="White" IsDefault="True"/>
+        <TextBlock x:Name="messageTextBlock" HorizontalAlignment="Center" Margin="0,40,0,60" TextWrapping="Wrap" VerticalAlignment="Top" Text="warning" Width="272" FontWeight="Bold" TextAlignment="Center" Foreground="White"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="40" Margin="245,0,0,0" VerticalAlignment="Top" Width="43" Source="media/epam_logo_2.png"/>
+
+    </Grid>
+</Window>

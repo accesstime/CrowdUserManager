@@ -1,0 +1,16 @@
+﻿<Window x:Class="CrowdUserManager.CompanySelector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrowdUserManager"
+        mc:Ignorable="d"
+        Title="Company selector" Height="154.438" Width="275.148" WindowStyle="None" ResizeMode="NoResize" ShowInTaskbar="False" WindowStartupLocation="CenterScreen" Background="{x:Null}" BorderThickness="3" BorderBrush="#FF3754D7" Icon="media/index.ico">
+    <Grid Background="#FF3F3D41">
+        <ComboBox x:Name="companyComboBox" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Width="212" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" SelectedIndex="0" BorderThickness="0"/>
+        <Button x:Name="button" Content="OK" HorizontalAlignment="Center" Margin="97,0" VerticalAlignment="Bottom" Width="75" BorderThickness="3,3,3,0" Background="{x:Null}" BorderBrush="#FF3754D7" FontWeight="Bold" Foreground="White" Click="button_Click" IsDefault="True"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0,20,0,0" TextWrapping="Wrap" Text="Please, select company" VerticalAlignment="Top" Width="212" TextAlignment="Center" FontWeight="Bold" Height="20" Foreground="White" FontSize="14"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="44" Source="media/epam_logo_2.png" Margin="222,0,0,0"/>
+
+    </Grid>
+</Window>

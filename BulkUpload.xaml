@@ -1,0 +1,27 @@
+﻿<Window x:Name="Atlassian_Crowd_Bulk_Uploader" x:Class="CrowdUserManager.BulkUpload"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrowdUserManager"
+        mc:Ignorable="d"
+        Title="Crowd Bulk Uploader" Height="376.331" Width="792.604" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="media/index.ico" Background="{x:Null}" BorderBrush="#FF3754D7" BorderThickness="1">
+    <Grid Background="#FF3F3D41" HorizontalAlignment="Left" Width="793">
+        <Button x:Name="verifyButton" Content="Verify" HorizontalAlignment="Center" Margin="350,0,360,22" VerticalAlignment="Bottom" Width="83" IsDefault="True" BorderThickness="2,0,2,2" Background="{x:Null}" Foreground="#FFEFF392" FontWeight="Bold" BorderBrush="#FF3754D7" Click="verifyButton_Click" Height="23"/>
+        <Button x:Name="ExitButton" Content="Exit" HorizontalAlignment="Right" Margin="0,0,10,21" VerticalAlignment="Bottom" Width="84" Click="ExitButton_Click" BorderThickness="2,0,2,2" Background="{x:Null}" Foreground="#FF747EBB" FontWeight="Bold" BorderBrush="#FF3754D7" Height="24"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Height="302" Width="773" Background="{x:Null}" HeadersVisibility="Column" ColumnHeaderHeight="22" AlternatingRowBackground="#FFECECEC" RowBackground="White" SelectionChanged="dataGrid_SelectionChanged" BorderBrush="#FF3754D7" BorderThickness="2" ClipboardCopyMode="IncludeHeader">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn Binding="{Binding Process}" ClipboardContentBinding="{x:Null}" IsReadOnly="false" />
+                <DataGridTextColumn Header="Email"  Binding="{Binding F1}" IsReadOnly="false"/>
+                <DataGridTextColumn Header="FirstName" Binding="{Binding F2}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="LastName" Binding="{Binding F3}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="UserName" Binding="{Binding F4}" IsReadOnly="False"/>
+                <DataGridTextColumn Header="CrowdUserGroups" Binding="{Binding F6}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Directory" Binding="{Binding Directory}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="CreateButton" Content="Create" HorizontalAlignment="Left" Margin="10,0,0,20" VerticalAlignment="Bottom" Width="86" RenderTransformOrigin="0.145,0.659" Click="CreateButton_Click" Background="{x:Null}" BorderBrush="#FF3754D7" BorderThickness="2,0,2,2" Foreground="#FFDA3A3A" FontWeight="Bold" Height="25"/>
+
+    </Grid>
+</Window>

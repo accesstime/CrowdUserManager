@@ -1,0 +1,1237 @@
+﻿09.05.2017 12:26:47: Search - philipp.hecker@unitymedia.de - Result: Not Found
+09.05.2017 12:27:26: Create - philipp.hecker - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: philipp.hecker@unitymedia.de
+09.05.2017 12:27:27: Search - philipp.hecker@unitymedia.de - Result: Found username - philipp.hecker
+09.05.2017 12:27:42: Add to Group - philipp.hecker - Result: was successfully added to the 'Unity Media DE' group
+09.05.2017 12:27:42: Add to Group - philipp.hecker - Result: was successfully added to the 'Unity Media' group
+09.05.2017 12:29:17: Search - philipp.hecker@unitymedia.de - Result: Found username - philipp.hecker
+09.05.2017 12:30:48: Search - sabine.schmidt@unitymedia.de - Result: Not Found
+09.05.2017 12:31:34: Create - sabine.schmidt - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: sabine.schmidt@unitymedia.de
+09.05.2017 12:31:34: Search - sabine.schmidt@unitymedia.de - Result: Found username - sabine.schmidt
+09.05.2017 12:31:41: Add to Group - sabine.schmidt - Result: was successfully added to the 'Unity Media' group
+09.05.2017 12:31:41: Add to Group - sabine.schmidt - Result: was successfully added to the 'Unity Media DE' group
+09.05.2017 12:38:14: Search - jdvos@libertyglobal.com - Result: Found username - jdevos
+09.05.2017 12:38:39: Reset Password - jdevos - Reset password link sent
+09.05.2017 12:42:54: Search - lghita.contractor@libertyglobal.com - Result: Not Found
+09.05.2017 12:43:18: Create - lghita.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: lghita.contractor@libertyglobal.com
+09.05.2017 12:43:19: Search - lghita.contractor@libertyglobal.com - Result: Found username - lghita.contractor
+09.05.2017 12:44:42: Search - Mariusz.Gieron - Result: Found username - Mariusz.Gieron
+09.05.2017 12:44:56: Add to Group - Mariusz.Gieron - Result: was successfully added to the 'CTO' group
+09.05.2017 12:45:03: Add to Group - Mariusz.Gieron - Result: was successfully added to the 'E2E' group
+09.05.2017 12:47:49: Search - Alan Ryan - Result: Found username - alryan.contractor
+09.05.2017 12:50:50: Add to Group - alryan.contractor - Result: was successfully added to the 'E2E SI' group
+09.05.2017 12:57:18: Search - andreas.rossmeissl@unitymedia.de - Result: Not Found
+09.05.2017 12:57:43: Create - andreas.rossmeissl - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: andreas.rossmeissl@unitymedia.de
+09.05.2017 12:57:46: Search - andreas.rossmeissl@unitymedia.de - Result: Found username - andreas.rossmeissl
+09.05.2017 12:57:57: Recreate - Andreas Rossmeissl (Unitymedia) was successfully recreated in AD directory
+09.05.2017 12:57:57: Search - andreas.rossmeissl@unitymedia.de - Result: Found username - andreas.rossmeissl
+09.05.2017 12:58:01: Reset Password - andreas.rossmeissl - Reset password link sent
+09.05.2017 12:58:09: Add to Group - andreas.rossmeissl - Result: was successfully added to the 'Unity Media DE' group
+09.05.2017 12:58:09: Add to Group - andreas.rossmeissl - Result: was successfully added to the 'Unity Media' group
+09.05.2017 12:59:52: Search - carsten.stephan@unitymedia.de - Result: Not Found
+09.05.2017 13:00:13: Create - carsten.stephan - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: carsten.stephan@unitymedia.de
+09.05.2017 13:00:14: Search - carsten.stephan@unitymedia.de - Result: Found username - carsten.stephan
+09.05.2017 13:00:24: Add to Group - carsten.stephan - Result: was successfully added to the 'Unity Media' group
+09.05.2017 13:00:25: Add to Group - carsten.stephan - Result: was successfully added to the 'Unity Media DE' group
+09.05.2017 13:02:36: Search - Tomasz Dudzik - Result: Found username - Tomasz_Dudzik
+09.05.2017 13:03:20: Update - Tomasz_Dudzik - Result: updated successfully
+09.05.2017 13:06:02: Update - Tomasz_Dudzik - Result: updated successfully
+09.05.2017 13:07:20: Search - Oliver.Spitzkat@unitymedia.de - Result: Not Found
+09.05.2017 13:07:34: Create - Oliver.Spitzkat - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Oliver.Spitzkat@unitymedia.de
+09.05.2017 13:07:34: Search - Oliver.Spitzkat@unitymedia.de - Result: Found username - Oliver.Spitzkat
+09.05.2017 13:07:43: Add to Group - Oliver.Spitzkat - Result: was successfully added to the 'Unity Media DE' group
+09.05.2017 13:07:43: Add to Group - Oliver.Spitzkat - Result: was successfully added to the 'Unity Media' group
+09.05.2017 13:09:33: Search - Richard.Nijsten@unitymedia.de) - Result: Not Found
+09.05.2017 13:09:51: Create - Richard.Nijsten - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Richard.Nijsten@unitymedia.de
+09.05.2017 13:09:52: Search - Richard.Nijsten@unitymedia.de) - Result: Found username - Richard.Nijsten
+09.05.2017 13:10:13: Add to Group - Richard.Nijsten - Result: was successfully added to the 'Unity Media DE' group
+09.05.2017 13:10:13: Add to Group - Richard.Nijsten - Result: was successfully added to the 'Unity Media' group
+09.05.2017 13:12:03: Search - smiasojed.contractor@libertyglobal.com - Result: Found username - smiasojed.contractor
+09.05.2017 13:12:25: Search - mkucharczyk.contractor@libertyglobal.com - Result: Found username - mkucharczyk.contractor
+09.05.2017 13:12:38: Search - lrubaszewski.contractor@libertyglobal.com - Result: Found username - lrubaszewski.contractor
+09.05.2017 13:12:55: Search - aromanek.contractor@libertyglobal.com - Result: Found username - aromanek.contractor
+09.05.2017 13:16:26: Search - niels.leunen@icapps.com - Result: Not Found
+09.05.2017 13:16:50: Create - niels.leunen - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: niels.leunen@icapps.com
+09.05.2017 13:16:53: Search - niels.leunen@icapps.com - Result: Found username - niels.leunen
+09.05.2017 13:17:11: Search - kristof.rasschaert@icapps.com - Result: Not Found
+09.05.2017 13:17:34: Create - kristof.rasschaert - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: kristof.rasschaert@icapps.com
+09.05.2017 13:17:37: Search - kristof.rasschaert@icapps.com - Result: Found username - kristof.rasschaert
+09.05.2017 13:17:52: Search - sjoera.roggeman@icapps.com - Result: Not Found
+09.05.2017 13:18:09: Create - sjoera.roggeman - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: sjoera.roggeman@icapps.com
+09.05.2017 13:18:11: Search - sjoera.roggeman@icapps.com - Result: Found username - sjoera.roggeman
+09.05.2017 13:18:38: Search - olivier.dupont@icapps.com - Result: Not Found
+09.05.2017 13:18:54: Create - olivier.dupont - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: olivier.dupont@icapps.com
+09.05.2017 13:18:57: Search - olivier.dupont@icapps.com - Result: Found username - olivier.dupont
+09.05.2017 13:19:14: Search - pieter.moeyersons@icapps.com - Result: Not Found
+09.05.2017 13:19:35: Create - pieter.moeyersons - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: pieter.moeyersons@icapps.com
+09.05.2017 13:19:38: Search - pieter.moeyersons@icapps.com - Result: Found username - pieter.moeyersons
+09.05.2017 13:20:08: Search - jelle.vandebeeck@icapps.com - Result: Not Found
+09.05.2017 13:20:24: Create - jelle.vandebeeck - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: jelle.vandebeeck@icapps.com
+09.05.2017 13:20:27: Search - jelle.vandebeeck@icapps.com - Result: Found username - jelle.vandebeeck
+09.05.2017 13:20:45: Search - nicola.verbeeck@icapps.com - Result: Not Found
+09.05.2017 13:21:06: Create - nicola.verbeeck - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nicola.verbeeck@icapps.com
+09.05.2017 13:21:09: Search - nicola.verbeeck@icapps.com - Result: Found username - nicola.verbeeck
+09.05.2017 13:23:43: Search - ngaynor.contractor@libertyglobal.com - Result: Found username - ngaynor.contractor
+09.05.2017 13:25:51: Search - Maxime Dumas - Result: Found username - mdumas
+09.05.2017 15:19:16: Search - devarshi.rathod@infosys.com - Result: Found username - devarshi.rathod
+09.05.2017 15:22:56: Search - Daniel Valverde Ferrer - Result: Found username - dvalverdeferrer
+09.05.2017 15:23:07: Add to Group - dvalverdeferrer - Result: was successfully added to the 'bitbucket-user' group
+09.05.2017 15:26:05: Search - vishnuraj@tataelxsi.co.in - Result: Not Found
+09.05.2017 15:26:36: Create - vishnuraj - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: vishnuraj@tataelxsi.co.in
+09.05.2017 15:26:38: Search - vishnuraj@tataelxsi.co.in - Result: Found username - vishnuraj
+09.05.2017 15:26:50: Add to Group - vishnuraj - Result: was successfully added to the 'TATAELXSI' group
+09.05.2017 15:28:28: Search - daan.stet@office.ziggo.nl - Result: Found username - dstet
+09.05.2017 15:28:47: Reset Password - dstet - Reset password link sent
+09.05.2017 15:31:02: Search - lukasz.wojdasiewicz@redembedded.com - Result: Found username - Lukasz.Wojdasiewicz
+09.05.2017 15:31:56: Search - Lukasz Wojdasiewicz - Result: Found username - Lukasz.Wojdasiewicz
+09.05.2017 15:36:03: Search - jafolalu@libertyglobal.com - Result: Not Found
+09.05.2017 15:37:10: Create - jafolalu - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: jafolalu@libertyglobal.com
+09.05.2017 15:37:10: Search - jafolalu@libertyglobal.com - Result: Found username - jafolalu
+09.05.2017 15:39:33: Search - Mariusz.Gieron Mariusz Gieron - Result: Not Found
+09.05.2017 15:39:37: Search - Mariusz.Gieron - Result: Found username - Mariusz.Gieron
+09.05.2017 15:39:51: Add to Group - Mariusz.Gieron - Result: was successfully added to the 'bitbucket-user' group
+09.05.2017 18:49:43: Search - Yashika Nagpal - Result: Found username - yashika.nagpal
+09.05.2017 19:05:53: Search - vishnuraj@tataelxsi.co.in - Result: Found username - vishnuraj
+09.05.2017 19:29:06: Search - Valeriane Poche - Result: Found username - valeriane.poche
+09.05.2017 19:37:35: Search - zbjelogrlic.contractor - Result: Found username - zbjelogrlic.contractor
+09.05.2017 19:40:56: Search - Romeu Amado - Result: Found username - ramado.contractor
+09.05.2017 19:49:59: Search - Radovan Markovic - Result: Found username - rmarkovic.contractor
+09.05.2017 19:50:05: Add to Group - rmarkovic.contractor - Result: was successfully added to the 'E2E' group
+10.05.2017 10:56:08: Search - lukasz.wojdasiewicz@redembedded.com - Result: Found username - Lukasz.Wojdasiewicz
+10.05.2017 10:56:19: Update - Lukasz.Wojdasiewicz - Result: updated successfully
+10.05.2017 10:56:28: Search - lukas - Result: Not Found
+10.05.2017 10:57:12: Create - lukasz.wojdasiewicz - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: lukasz.wojdasiewicz@redembedded.com
+10.05.2017 10:57:17: Search - lukasz.wojdasiewicz@redembedded.com - Result: Found username - Lukasz.Wojdasiewicz
+10.05.2017 10:57:51: Search - Lukasz Wojdasiewicz (re - Result: Not Found
+10.05.2017 10:58:02: Search - Lukasz Wojdasiewicz (Re - Result: Not Found
+10.05.2017 11:02:22: Create - lukasz.wojdasiewicz - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: lukasz.wojdasiewicz@redembedded.com
+10.05.2017 11:02:25: Search - Lukasz Wojdasiewicz (Re - Result: Found username - lukasz.wojdasiewicz
+10.05.2017 11:03:02: Search - Lukasz Wojdasiewicz (Re - Result: Found username - lukasz.wojdasiewicz
+10.05.2017 11:03:05: Add to Group - lukasz.wojdasiewicz - Result: was successfully added to the 'redembedded' group
+10.05.2017 17:17:34: Search - anuja.shukla@infosys.com - Result: Not Found
+10.05.2017 17:18:31: Create - anuja.shukla - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: anuja.shukla@infosys.com
+10.05.2017 17:18:44: Search - anuja.shukla@infosys.com - Result: Found username - anuja.shukla
+10.05.2017 17:18:53: Add to Group - anuja.shukla - Result: was successfully added to the 'Infosys' group
+10.05.2017 17:20:53: Search - noman.ahmed@telenetgroup.be - Result: Not Found
+10.05.2017 17:25:12: Create - noman.ahmed - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: noman.ahmed@telenetgroup.be
+10.05.2017 17:25:15: Search - noman.ahmed@telenetgroup.be - Result: Found username - noman.ahmed
+10.05.2017 17:25:24: Add to Group - noman.ahmed - Result: was successfully added to the 'Telenet' group
+10.05.2017 17:26:25: Search - karina.guevara - Result: Found username - karina.guevara
+10.05.2017 17:29:19: Search - Jakub Kolar - Result: Found username - jakub.kolar3
+10.05.2017 17:29:25: Add to Group - jakub.kolar3 - Result: was successfully added to the 'bitbucket-user' group
+10.05.2017 17:31:28: Search - nithini.rajendra@infosys.com - Result: Not Found
+10.05.2017 17:31:55: Create - nithini.rajendra - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nithini.rajendra@infosys.com
+10.05.2017 17:32:04: Search - nithini.rajendra@infosys.com - Result: Found username - nithini.rajendra
+10.05.2017 17:32:15: Add to Group - nithini.rajendra - Result: was successfully added to the 'Infosys' group
+10.05.2017 17:33:21: Search - Stanislaw_Pruzhanski@epam.com - Result: Found username - stanislaw_pruzhanski
+11.05.2017 11:21:07: Search - radhakrishna.r@infosys.com - Result: Found username - radhakrishna.r
+11.05.2017 11:23:09: Search - hnarayanaswamy.contractor@libertyglobal.com - Result: Found username - hnarayanaswamy.contractor
+11.05.2017 11:23:31: Update - hnarayanaswamy.contractor - Result: updated successfully
+11.05.2017 11:23:39: Reset Password - hnarayanaswamy.contractor - Reset password link sent
+11.05.2017 11:24:50: Search - mbijman@libertyglobal.com - Result: Found username - mbijman
+11.05.2017 11:25:03: Add to Group - mbijman - Result: was successfully added to the 'bitbucket-user' group
+11.05.2017 11:28:55: Search - Jean-Christophe D - Result: Found username - jean_deperthe
+11.05.2017 11:34:33: Search - mszymanski.contractor@libertyglobal.com - Result: Not Found
+11.05.2017 11:35:25: Create - mszymanski.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: mszymanski.contractor@libertyglobal.com
+11.05.2017 11:35:26: Search - mszymanski.contractor@libertyglobal.com - Result: Found username - mszymanski.contractor
+11.05.2017 11:35:30: Add to Group - mszymanski.contractor - Result: was successfully added to the 'OBO-Collaborators' group
+11.05.2017 11:38:29: Search - Rajasingh.Nadar@infosys.com - Result: Not Found
+11.05.2017 11:38:42: Create - Rajasingh.Nadar - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Rajasingh.Nadar@infosys.com
+11.05.2017 11:38:44: Search - Rajasingh.Nadar@infosys.com - Result: Found username - Rajasingh.Nadar
+11.05.2017 11:38:48: Add to Group - Rajasingh.Nadar - Result: was successfully added to the 'Infosys' group
+11.05.2017 13:25:24: Search - bhuvanarani.mr@infosys.com - Result: Not Found
+11.05.2017 13:25:40: Create - bhuvanarani.mr - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: bhuvanarani.mr@infosys.com
+11.05.2017 13:25:45: Search - bhuvanarani.mr@infosys.com - Result: Found username - bhuvanarani.mr
+11.05.2017 13:25:51: Add to Group - bhuvanarani.mr - Result: was successfully added to the 'Infosys' group
+11.05.2017 13:26:25: Search - Akshaya_N01@infosys.com - Result: Not Found
+11.05.2017 13:26:37: Create - Akshaya_N01 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Akshaya_N01@infosys.com
+11.05.2017 13:26:43: Search - Akshaya_N01@infosys.com - Result: Found username - Akshaya_N01
+11.05.2017 13:26:48: Add to Group - Akshaya_N01 - Result: was successfully added to the 'Infosys' group
+11.05.2017 13:33:47: Search - Nikolay Nikolov - Result: Found username - nikolay
+11.05.2017 13:37:03: Search - jdeleeuw - Result: Found username - jdeleeuw
+11.05.2017 14:19:20: Search - peter.vanderstruijk@office.ziggo.nl - Result: Found username - peter.vanderstruijk
+11.05.2017 14:19:59: Reset Password - peter.vanderstruijk - Reset password link sent
+11.05.2017 14:23:05: Search - Schaudhary - Result: Found username - schaudhary
+11.05.2017 14:23:47: Search - Ecoria - Result: Not Found
+11.05.2017 14:27:23: Search - akgarg.contractor - Result: Found username - akgarg.contractor
+11.05.2017 14:28:30: Search - jos.broersen@prodaptconsulting.com - Result: Not Found
+11.05.2017 14:28:53: Create - jos.broersen - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: jos.broersen@prodaptconsulting.com
+11.05.2017 14:29:00: Search - jos.broersen@prodaptconsulting.com - Result: Found username - jos.broersen
+11.05.2017 15:42:36: Get Groups List - Directory: External
+11.05.2017 15:42:45: Get Group Members - CTO-OBO. Result: Total: 7: users found
+11.05.2017 15:43:01: Search - asen.hajcik - Result: Found username - asen.hajcik
+11.05.2017 15:43:13: Get Groups List - Directory: External
+11.05.2017 15:43:27: Get Groups List - Directory: AD
+11.05.2017 15:43:37: Get Group Members - CTO-OBO. Result: Total: 10: users found
+11.05.2017 15:43:48: Search - richard.wood - Result: Found username - richard.wood
+11.05.2017 15:43:59: Search - mdumas - Result: Found username - mdumas
+11.05.2017 15:44:11: Search - kovacsattila - Result: Found username - kovacsattila
+11.05.2017 15:44:18: Search - richard.wood - Result: Found username - richard.wood
+11.05.2017 15:44:21: Search - rdepping.contractor - Result: Found username - rdepping.contractor
+11.05.2017 15:48:10: Search - alena_pyrkh@epam.com - Result: Not Found
+11.05.2017 15:48:31: Create - alena_pyrkh - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: alena_pyrkh@epam.com
+11.05.2017 15:48:38: Search - alena_pyrkh@epam.com - Result: Found username - alena_pyrkh
+11.05.2017 15:48:47: Add to Group - alena_pyrkh - Result: was successfully added to the 'Epam' group
+11.05.2017 15:49:07: Add to Group - alena_pyrkh - Result: was successfully added to the 'Mercury' group
+11.05.2017 15:49:09: Add to Group - alena_pyrkh - Result: was successfully added to the 'Mercury UI' group
+11.05.2017 15:49:17: Search - alena_pyrkh@epam.com - Result: Found username - alena_pyrkh
+11.05.2017 15:51:19: Search - sofya_tarnalitskaya@epam.com - Result: Not Found
+11.05.2017 15:51:33: Create - sofya_tarnalitskaya - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: sofya_tarnalitskaya@epam.com
+11.05.2017 15:51:40: Search - sofya_tarnalitskaya@epam.com - Result: Found username - sofya_tarnalitskaya
+11.05.2017 15:51:59: Add to Group - sofya_tarnalitskaya - Result: was successfully added to the 'Epam' group
+11.05.2017 15:52:01: Add to Group - sofya_tarnalitskaya - Result: was successfully added to the 'Mercury' group
+11.05.2017 15:52:01: Add to Group - sofya_tarnalitskaya - Result: was successfully added to the 'Mercury UI' group
+11.05.2017 15:52:09: Search - sofya_tarnalitskaya@epam.com - Result: Found username - sofya_tarnalitskaya
+11.05.2017 15:53:48: Search - Eveline Albers - Result: Not Found
+11.05.2017 15:54:14: Search - eveline.albers@valtech.nl - Result: Not Found
+11.05.2017 15:54:28: Create - eveline.albers - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: eveline.albers@valtech.nl
+11.05.2017 15:54:32: Search - eveline.albers@valtech.nl - Result: Found username - eveline.albers
+11.05.2017 15:55:12: Add to Group - eveline.albers - Result: was successfully added to the 'pcteam-CQ5_ro' group
+11.05.2017 15:55:13: Add to Group - eveline.albers - Result: was successfully added to the 'pcteam-readonly' group
+11.05.2017 15:55:13: Add to Group - eveline.albers - Result: was successfully added to the 'pcteam_CQ5_RO' group
+11.05.2017 15:55:14: Add to Group - eveline.albers - Result: was successfully added to the 'pcteam_CQ5_RW' group
+11.05.2017 15:55:14: Add to Group - eveline.albers - Result: was successfully added to the 'pcteam_CQ5_trunk' group
+11.05.2017 19:19:27: Search - Nishanth_Nair02@infosys.com - Result: Not Found
+11.05.2017 19:19:48: Create - Nishanth_Nair02 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Nishanth_Nair02@infosys.com
+11.05.2017 19:19:51: Search - Nishanth_Nair02@infosys.com - Result: Found username - Nishanth_Nair02
+11.05.2017 19:19:56: Add to Group - Nishanth_Nair02 - Result: was successfully added to the 'Infosys' group
+11.05.2017 19:36:07: Search - dan.lee@virginmedia.co.uk] - Result: Not Found
+11.05.2017 19:36:32: Create - dan.lee - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: dan.lee@virginmedia.co.uk
+11.05.2017 19:36:32: Search - dan.lee@virginmedia.co.uk] - Result: Found username - dan.lee
+11.05.2017 19:36:40: Add to Group - dan.lee - Result: was successfully added to the 'Virgin Media UK' group
+11.05.2017 19:36:40: Add to Group - dan.lee - Result: was successfully added to the 'Virgin Media' group
+11.05.2017 19:37:35: Add to Group - dan.lee - Result: was successfully added to the 'pcteam_aem_RO' group
+11.05.2017 19:37:36: Add to Group - dan.lee - Result: was successfully added to the 'pcteam_aem_RW' group
+11.05.2017 19:37:36: Add to Group - dan.lee - Result: was successfully added to the 'pcteam-CQ5_ro' group
+11.05.2017 19:37:36: Add to Group - dan.lee - Result: was successfully added to the 'pcteam_CQ5_RO' group
+11.05.2017 19:37:36: Add to Group - dan.lee - Result: was successfully added to the 'pcteam_CQ5_RW' group
+12.05.2017 09:36:04: Search - vivek.kumar78@infosys.com - Result: Not Found
+12.05.2017 09:36:31: Create - vivek.kumar78 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: vivek.kumar78@infosys.com
+12.05.2017 09:36:34: Search - vivek.kumar78@infosys.com - Result: Found username - vivek.kumar78
+12.05.2017 09:36:37: Add to Group - vivek.kumar78 - Result: was successfully added to the 'Infosys' group
+12.05.2017 09:37:07: Search - nonit.dua@infosys.com - Result: Not Found
+12.05.2017 09:37:23: Create - nonit.dua - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nonit.dua@infosys.com
+12.05.2017 09:37:27: Search - nonit.dua@infosys.com - Result: Found username - nonit.dua
+12.05.2017 09:37:32: Add to Group - nonit.dua - Result: was successfully added to the 'Infosys' group
+12.05.2017 09:37:59: Search - devika.phutane@infosys.com - Result: Not Found
+12.05.2017 09:38:19: Create - devika.phutane - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: devika.phutane@infosys.com
+12.05.2017 09:38:23: Search - devika.phutane@infosys.com - Result: Found username - devika.phutane
+12.05.2017 09:38:26: Add to Group - devika.phutane - Result: was successfully added to the 'Infosys' group
+12.05.2017 09:38:51: Search - yash.mittal@infosys.com - Result: Not Found
+12.05.2017 09:39:08: Create - yash.mittal - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: yash.mittal@infosys.com
+12.05.2017 09:39:11: Search - yash.mittal@infosys.com - Result: Found username - yash.mittal
+12.05.2017 09:39:15: Add to Group - yash.mittal - Result: was successfully added to the 'Infosys' group
+12.05.2017 09:45:34: Search - Vinu_Joseph@infosys.com - Result: Found username - vinu_joseph
+12.05.2017 09:46:42: Add to Group - vinu_joseph - Result: was successfully added to the 'pcteam-readonly' group
+12.05.2017 09:46:42: Add to Group - vinu_joseph - Result: was successfully added to the 'pcteam_root_RO' group
+12.05.2017 09:46:43: Add to Group - vinu_joseph - Result: was successfully added to the 'pcteam_root_RW' group
+12.05.2017 13:53:13: Search - kborowski.contractor@libertyglobal.com - Result: Not Found
+12.05.2017 13:54:00: Create - kborowski.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: kborowski.contractor@libertyglobal.com
+12.05.2017 13:54:01: Search - kborowski.contractor@libertyglobal.com - Result: Found username - kborowski.contractor
+12.05.2017 13:54:16: Add to Group - kborowski.contractor - Result: was successfully added to the 'OBO-Collaborators' group
+12.05.2017 15:05:38: Search - c.bercier@ateme.com - Result: Not Found
+12.05.2017 15:05:56: Create - c.bercier - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: c.bercier@ateme.com
+12.05.2017 15:06:03: Search - c.bercier@ateme.com - Result: Found username - c.bercier
+12.05.2017 15:06:20: Search - m.michaud@ateme.com - Result: Not Found
+12.05.2017 15:06:33: Create - m.michaud - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: m.michaud@ateme.com
+12.05.2017 15:06:37: Search - m.michaud@ateme.com - Result: Found username - m.michaud
+12.05.2017 15:12:05: Search - Ozan Arslan - Result: Found username - ozan.arslan
+12.05.2017 15:12:31: Update - ozan.arslan - Result: updated successfully
+12.05.2017 15:12:45: Search - ozan.contractor@libertyglobal.com - Result: Not Found
+12.05.2017 15:13:11: Create - ozan.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: ozan.contractor@libertyglobal.com
+12.05.2017 15:13:11: Search - ozan.contractor@libertyglobal.com - Result: Found username - ozan.contractor
+12.05.2017 17:13:36: Search - Vanya Lewin - Result: Found username - vanya.lewin
+13.05.2017 10:19:54: Search - Anastasiya_Pratasavitskaya@epam.com - Result: Not Found
+13.05.2017 10:20:07: Create - Anastasiya_Pratasavitskaya - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Anastasiya_Pratasavitskaya@epam.com
+13.05.2017 10:20:10: Search - Anastasiya_Pratasavitskaya@epam.com - Result: Found username - Anastasiya_Pratasavitskaya
+13.05.2017 10:20:15: Add to Group - Anastasiya_Pratasavitskaya - Result: was successfully added to the 'Epam' group
+13.05.2017 10:20:43: Search - Alena_Kruhlikava@epam.com - Result: Not Found
+13.05.2017 10:21:03: Create - Alena_Kruhlikava - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Alena_Kruhlikava@epam.com
+13.05.2017 10:21:12: Search - Alena_Kruhlikava@epam.com - Result: Found username - Alena_Kruhlikava
+13.05.2017 10:21:22: Search - Alena_Kruhlikava@epam.com - Result: Found username - Alena_Kruhlikava
+13.05.2017 10:21:23: Add to Group - Alena_Kruhlikava - Result: was successfully added to the 'Epam' group
+13.05.2017 10:21:31: Reset Password - Alena_Kruhlikava - Reset password link sent
+13.05.2017 15:05:00: Search - kirti.agarwal01 - Result: Found username - Kirti.Agarwal01
+13.05.2017 15:05:14: Update - Kirti.Agarwal01 - Result: updated successfully
+14.05.2017 09:22:52: Search - Sviatlana Khamenka - Result: Found username - sviatlana_khamenka
+14.05.2017 09:23:08: Search - : valeriane.poche - Result: Not Found
+14.05.2017 09:23:14: Search - valeriane.poche - Result: Found username - valeriane.poche
+14.05.2017 09:23:49: Add to Group - valeriane.poche - Result: was successfully added to the 'Telenet' group
+14.05.2017 09:25:07: Update - valeriane.poche - Result: updated successfully
+14.05.2017 09:27:09: Search - zbjelogrlic.contractor - Result: Found username - zbjelogrlic.contractor
+14.05.2017 09:28:32: Search - Martin van Dijk - Result: Found username - mvandijk
+14.05.2017 09:36:51: Search - ozan.contractor - Result: Found username - ozan.contractor
+14.05.2017 09:37:25: Search - Ozan Arslan - Result: Found username - ozan.contractor
+14.05.2017 09:45:41: Search - Ozan Arslan - Result: Found username - ozan.contractor
+14.05.2017 09:45:51: Reset Password - ozan.contractor - Reset password link sent
+15.05.2017 10:57:46: Search - ksaievych@wiztivi.com - Result: Not Found
+15.05.2017 10:58:15: Create - ksaievych - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: ksaievych@wiztivi.com
+15.05.2017 10:58:18: Search - ksaievych@wiztivi.com - Result: Found username - ksaievych
+15.05.2017 12:31:08: Search - mauricevanpelt@unitid.nl - Result: Not Found
+15.05.2017 12:31:22: Create - mauricevanpelt - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: mauricevanpelt@unitid.nl
+15.05.2017 12:31:25: Search - mauricevanpelt@unitid.nl - Result: Found username - mauricevanpelt
+15.05.2017 12:31:41: Add to Group - mauricevanpelt - Result: was successfully added to the 'UNITiD' group
+15.05.2017 12:48:06: Search - amal_philip@infosys.com - Result: Found username - amal_philip
+15.05.2017 12:48:29: Reset Password - amal_philip - Reset password link sent
+15.05.2017 12:53:28: Search - yashika.nagpal - Result: Found username - yashika.nagpal
+15.05.2017 12:53:36: Add to Group - yashika.nagpal - Result: was successfully added to the 'Infosys - Execution' group
+15.05.2017 12:53:51: Search - anuj.pandey01 - Result: Found username - anuj.pandey01
+15.05.2017 12:53:56: Add to Group - anuj.pandey01 - Result: was successfully added to the 'Infosys - Execution' group
+15.05.2017 12:54:11: Search - bperumareddy - Result: Not Found
+15.05.2017 12:54:28: Search - Perumareddy Chander - Result: Not Found
+15.05.2017 12:57:30: Search - ufiroze - Result: Found username - ufiroze
+15.05.2017 12:58:18: Add to Group - ufiroze - Result: was successfully added to the 'CTO' group
+15.05.2017 14:21:36: Search - Rodney Balai - Result: Found username - robalai
+15.05.2017 19:06:35: Search - djamieson.contractor@libertyglobal.com - Result: Not Found
+15.05.2017 19:06:50: Create - djamieson.contractor - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: djamieson.contractor@libertyglobal.com
+15.05.2017 19:06:53: Search - djamieson.contractor@libertyglobal.com - Result: Found username - djamieson.contractor
+15.05.2017 19:07:10: Recreate - David Jamieson  (Libertyglobal) was successfully recreated in AD directory
+15.05.2017 19:07:11: Search - djamieson.contractor@libertyglobal.com - Result: Found username - djamieson.contractor
+15.05.2017 19:07:16: Search - djamieson.contractor@libertyglobal.com - Result: Found username - djamieson.contractor
+15.05.2017 19:07:25: Update - djamieson.contractor - Result: updated successfully
+15.05.2017 19:20:22: Reset Password - djamieson.contractor - Reset password link sent
+16.05.2017 09:15:09: Search - mszymanski.contractor@libertyglobal.com - Result: Found username - mszymanski.contractor
+16.05.2017 09:15:38: Update - mszymanski.contractor - Result: updated successfully
+16.05.2017 09:15:52: Reset Password - mszymanski.contractor - Reset password link sent
+16.05.2017 09:19:03: Search - rsiddique.contractor@libertyglobal.com - Result: Not Found
+16.05.2017 09:19:15: Create - rsiddique.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: rsiddique.contractor@libertyglobal.com
+16.05.2017 09:19:16: Search - rsiddique.contractor@libertyglobal.com - Result: Found username - rsiddique.contractor
+16.05.2017 09:44:31: Search - Ilan Maarek - Result: Found username - imaarek.contractor
+16.05.2017 10:13:11: Search - venkatesh Thimmarayappa - Result: Not Found
+16.05.2017 10:13:26: Search - venkatesh.t107@infosys.com - Result: Not Found
+16.05.2017 10:13:40: Create - venkatesh.t107 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: venkatesh.t107@infosys.com
+16.05.2017 10:13:43: Search - venkatesh.t107@infosys.com - Result: Found username - venkatesh.t107
+16.05.2017 10:13:50: Add to Group - venkatesh.t107 - Result: was successfully added to the 'Infosys' group
+16.05.2017 10:34:57: Search - Krzysztof Borowski - Result: Found username - kborowski.contractor
+16.05.2017 10:35:14: Search - (i.papagrigorakis@accenture.com - Result: Not Found
+16.05.2017 10:35:18: Search - i.papagrigorakis@accenture.com - Result: Found username - i.papagrigorakis
+16.05.2017 11:42:59: Search - Nikolai_Kostenko@epam.com - Result: Not Found
+16.05.2017 11:43:13: Create - Nikolai_Kostenko - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Nikolai_Kostenko@epam.com
+16.05.2017 11:43:18: Search - Nikolai_Kostenko@epam.com - Result: Found username - Nikolai_Kostenko
+16.05.2017 11:47:38: Search - Account 'Nikolai_Kostenko' was successfully created .Reset password link was sent to Nikolai_Kostenko@epam.com - Result: Not Found
+16.05.2017 11:47:48: Search - jeevan_eashwar@infosys.com - Result: Not Found
+16.05.2017 11:48:04: Search - Account 'Nikolai_Kostenko' was successfully created .Reset password link was sent to Nikolai_Kostenko@epam.com - Result: Not Found
+16.05.2017 11:48:18: Search - jeevan_eashwar@infosys.com - Result: Not Found
+16.05.2017 11:48:33: Create - jeevan_eashwar - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: jeevan_eashwar@infosys.com
+16.05.2017 11:48:42: Search - jeevan_eashwar@infosys.com - Result: Found username - jeevan_eashwar
+16.05.2017 11:48:53: Add to Group - jeevan_eashwar - Result: was successfully added to the 'Infosys' group
+16.05.2017 12:11:07: Search - nikolai_kostenko - Result: Found username - Nikolai_Kostenko
+16.05.2017 13:18:26: Search - rajadurai.f@prodapt.com - Result: Found username - rajadurai.f
+16.05.2017 13:19:00: Search - Herwin.Schluter@office.ziggo.nl - Result: Not Found
+16.05.2017 13:20:17: Create - Herwin.Schluter - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Herwin.Schluter@office.ziggo.nl
+16.05.2017 13:20:28: Search - Herwin.Schluter@office.ziggo.nl - Result: Found username - Herwin.Schluter
+16.05.2017 13:20:42: Update - Herwin.Schluter - Result: updated successfully
+16.05.2017 13:22:06: Search - rajadurai.f@prodapt.com - Result: Found username - rajadurai.f
+16.05.2017 20:06:21: Search - Auto_LIBG-140_Sync - Result: Found username - Auto_LIBG-140_Sync
+16.05.2017 20:06:30: Reset Password - Auto_LIBG-140_Sync - Reset password link sent
+17.05.2017 08:56:18: Search - nnikolov - Result: Found username - nnikolov
+17.05.2017 09:35:03: Get Groups List - Directory: External
+17.05.2017 09:35:09: Create Group - icapps - Result: group successfully created
+17.05.2017 09:58:24: Search - dennis.covent@icapps.com - Result: Not Found
+17.05.2017 09:58:45: Create - dennis.covent - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: dennis.covent@icapps.com
+17.05.2017 09:58:49: Search - dennis.covent@icapps.com - Result: Found username - dennis.covent
+17.05.2017 09:58:56: Add to Group - dennis.covent - Result: was successfully added to the 'icapps' group
+17.05.2017 09:59:14: Search - Account 'dennis.covent' was successfully created .Reset password link was sent to dennis.covent@icapps.com - Result: Not Found
+17.05.2017 09:59:26: Search - sjoera.roggeman@icapps.com - Result: Found username - sjoera.roggeman
+17.05.2017 10:01:07: Search - louis.demeester@icapps.com - Result: Not Found
+17.05.2017 10:01:23: Create - louis.demeester - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: louis.demeester@icapps.com
+17.05.2017 10:01:26: Search - louis.demeester@icapps.com - Result: Found username - louis.demeester
+17.05.2017 10:01:30: Add to Group - louis.demeester - Result: was successfully added to the 'icapps' group
+17.05.2017 11:05:43: Search - Auto_LIBG-140_Sync - Result: Found username - Auto_LIBG-140_Sync
+17.05.2017 11:10:56: Search - Dorota Goffin - Result: Found username - dgoffin123
+17.05.2017 11:10:59: Search - dgoffin - Result: Found username - dgoffin
+17.05.2017 11:17:39: Search - jafc - Result: Not Found
+17.05.2017 11:17:47: Search - jafc_bot - Result: Found username - JAFC_BOT
+17.05.2017 12:03:06: Search - johnny.degreef - Result: Found username - johnny.degreef
+17.05.2017 12:06:15: Search - Sergio.Ferraro@virginmedia.co.uk - Result: Not Found
+17.05.2017 12:06:37: Create - Sergio.Ferraro - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Sergio.Ferraro@virginmedia.co.uk
+17.05.2017 12:06:38: Search - Sergio.Ferraro@virginmedia.co.uk - Result: Found username - Sergio.Ferraro
+17.05.2017 12:06:55: Add to Group - Sergio.Ferraro - Result: was successfully added to the 'Virgin Media UK' group
+17.05.2017 12:06:56: Add to Group - Sergio.Ferraro - Result: was successfully added to the 'Virgin Media' group
+17.05.2017 12:12:00: Search - Katie.Simpson@virginmedia.co.uk - Result: Not Found
+17.05.2017 12:12:39: Create - Katie.Simpson - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Katie.Simpson@virginmedia.co.uk
+17.05.2017 12:12:40: Search - Katie.Simpson@virginmedia.co.uk - Result: Found username - Katie.Simpson
+17.05.2017 12:12:48: Add to Group - Katie.Simpson - Result: was successfully added to the 'Virgin Media UK' group
+17.05.2017 12:12:48: Add to Group - Katie.Simpson - Result: was successfully added to the 'Virgin Media' group
+17.05.2017 12:17:45: Search - matthias.pfaff@unitymedia.de - Result: Not Found
+17.05.2017 12:17:54: Search - matthias pfaff - Result: Found username - Matthias.Pfafff
+17.05.2017 12:19:18: Delete User - Matthias.Pfafff - Result: successfully removed from the system
+17.05.2017 12:19:28: Search - Matthias.Pfafff - Result: Not Found
+17.05.2017 12:19:52: Create - Matthias.Pfaff - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Matthias.Pfaff@unitymedia.de
+17.05.2017 12:19:56: Search - Matthias.Pfafff - Result: Not Found
+17.05.2017 12:19:59: Search - Matthias.Pfaff - Result: Found username - Matthias.Pfaff
+17.05.2017 12:20:12: Add to Group - Matthias.Pfaff - Result: was successfully added to the 'Unity Media' group
+17.05.2017 12:20:12: Add to Group - Matthias.Pfaff - Result: was successfully added to the 'Unity Media DE' group
+17.05.2017 12:21:39: Search - mario.sprangowski@unitymedia.de - Result: Found username - mario.sprangowski
+17.05.2017 12:21:45: Reset Password - mario.sprangowski - Reset password link sent
+17.05.2017 12:27:20: Search - saurav.kumar23@infosys.com - Result: Not Found
+17.05.2017 12:27:29: Search - saurav kumar - Result: Not Found
+17.05.2017 12:27:38: Search - saurav.kumar23@infosys.com - Result: Not Found
+17.05.2017 12:27:58: Create - saurav.kumar23 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: saurav.kumar23@infosys.com
+17.05.2017 12:28:06: Search - saurav.kumar23@infosys.com - Result: Found username - saurav.kumar23
+17.05.2017 12:28:23: Add to Group - saurav.kumar23 - Result: was successfully added to the 'Infosys' group
+17.05.2017 12:29:20: Search - perumareddy.chander - Result: Found username - perumareddy.chander
+17.05.2017 12:29:28: Add to Group - perumareddy.chander - Result: was successfully added to the 'Infosys - Execution' group
+17.05.2017 12:36:49: Search - ksaievych@wiztivi.com - Result: Found username - ksaievych
+17.05.2017 12:37:01: Add to Group - ksaievych - Result: was successfully added to the 'wiztivi' group
+17.05.2017 14:11:03: Search - Sushma B M (infosys) - Result: Found username - sushma_bm01
+17.05.2017 15:09:01: Search - imahieu@cisco.com - Result: Not Found
+17.05.2017 15:09:20: Create - imahieu - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: imahieu@cisco.com
+17.05.2017 15:09:28: Search - imahieu@cisco.com - Result: Found username - imahieu
+17.05.2017 15:09:45: Add to Group - imahieu - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:10:10: Search - karsam@cisco.com - Result: Not Found
+17.05.2017 15:10:27: Create - karsam - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: karsam@cisco.com
+17.05.2017 15:10:33: Search - karsam@cisco.com - Result: Found username - karsam
+17.05.2017 15:10:40: Add to Group - karsam - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:11:13: Search - obichaut@cisco.com - Result: Not Found
+17.05.2017 15:11:23: Create - obichaut - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: obichaut@cisco.com
+17.05.2017 15:11:29: Search - obichaut@cisco.com - Result: Found username - obichaut
+17.05.2017 15:11:34: Add to Group - obichaut - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:12:16: Search - rajijha@cisco.com - Result: Not Found
+17.05.2017 15:12:30: Create - rajijha - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: rajijha@cisco.com
+17.05.2017 15:12:35: Search - rajijha@cisco.com - Result: Found username - rajijha
+17.05.2017 15:12:39: Add to Group - rajijha - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:13:05: Search - nandrama@cisco.com - Result: Not Found
+17.05.2017 15:13:19: Create - nandrama - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nandrama@cisco.com
+17.05.2017 15:13:26: Search - nandrama@cisco.com - Result: Found username - nandrama
+17.05.2017 15:13:32: Add to Group - nandrama - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:13:57: Search - mchakrap@cisco.com - Result: Not Found
+17.05.2017 15:14:07: Create - mchakrap - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: mchakrap@cisco.com
+17.05.2017 15:14:11: Search - mchakrap@cisco.com - Result: Found username - mchakrap
+17.05.2017 15:14:16: Add to Group - mchakrap - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:14:53: Search - mchakrap@cisco.com - Result: Found username - mchakrap
+17.05.2017 15:15:29: Reset Password - mchakrap - Reset password link sent
+17.05.2017 15:16:01: Search - bbartwal@cisco.com - Result: Found username - bbartwal
+17.05.2017 15:16:46: Search - ibudji@cisco.com - Result: Not Found
+17.05.2017 15:17:06: Create - ibudji - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: ibudji@cisco.com
+17.05.2017 15:17:15: Search - ibudji@cisco.com - Result: Found username - ibudji
+17.05.2017 15:17:19: Add to Group - ibudji - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 15:27:35: Search - Akshat Khandelwal (Infosys) - Result: Found username - akshat.khandelwal
+17.05.2017 15:27:43: Add to Group - akshat.khandelwal - Result: was successfully added to the 'bitbucket-user' group
+17.05.2017 15:59:11: Search - mvanpelt@libertyglobal.com - Result: Found username - mvanpelt
+17.05.2017 16:01:23: Search - mdevanay@cisco.com - Result: Not Found
+17.05.2017 16:01:57: Create - mdevanay - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: mdevanay@cisco.com
+17.05.2017 16:02:03: Search - mdevanay@cisco.com - Result: Found username - mdevanay
+17.05.2017 16:02:11: Add to Group - mdevanay - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 16:05:23: Search - aradoua@cisco.com - Result: Not Found
+17.05.2017 16:06:28: Create - aradoua - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: aradoua@cisco.com
+17.05.2017 16:06:37: Search - aradoua@cisco.com - Result: Found username - aradoua
+17.05.2017 16:06:44: Add to Group - aradoua - Result: was successfully added to the 'ciscohzn' group
+17.05.2017 16:07:35: Search - gschorte@cisco.com - Result: Found username - gschorte
+17.05.2017 16:17:16: Search - jfumolea@cisco.com - Result: Not Found
+17.05.2017 16:17:31: Create - jfumolea - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: jfumolea@cisco.com
+17.05.2017 16:17:37: Search - jfumolea@cisco.com - Result: Found username - jfumolea
+17.05.2017 16:17:52: Add to Group - jfumolea - Result: was successfully added to the 'Infosys' group
+17.05.2017 16:25:14: Search - johnny.degreef - Result: Found username - johnny.degreef
+17.05.2017 16:25:25: Add to Group - johnny.degreef - Result: was successfully added to the 'bitbucket-user' group
+17.05.2017 17:41:19: Search - everwoerd - Result: Found username - everwoerd
+17.05.2017 17:41:27: Search - selmadkouki - Result: Found username - selmadkouki
+17.05.2017 17:54:56: Search - Aleksandar Pajevic - Result: Found username - apajevic
+17.05.2017 17:59:50: Search - olivier.maerten@ericsson.com - Result: Not Found
+17.05.2017 17:59:56: Search - Olivier Maerten - Result: Not Found
+17.05.2017 18:00:02: Search - olivier.maerten@ericsson.com - Result: Not Found
+17.05.2017 18:00:15: Create - olivier.maerten - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: olivier.maerten@ericsson.com
+17.05.2017 18:00:18: Search - olivier.maerten@ericsson.com - Result: Found username - olivier.maerten
+18.05.2017 08:47:16: Search - ngopalswamy.contractor@libertyglobal.com - Result: Found username - ngopalswamy.contractor
+18.05.2017 08:47:28: Update - ngopalswamy.contractor - Result: updated successfully
+18.05.2017 08:49:46: Search - Mahmoud Sallam - Result: Found username - msallam
+18.05.2017 08:49:53: Add to Group - msallam - Result: was successfully added to the 'bitbucket-user' group
+18.05.2017 09:17:52: Search - Tasktop - Result: Not Found
+18.05.2017 09:18:01: Search - Tasktop Sync - Result: Not Found
+18.05.2017 11:35:05: Search - Klaudia.ZotzmannKoch@upc.at - Result: Found username - klaudia.zotzmannkoch
+18.05.2017 11:35:40: Update - klaudia.zotzmannkoch - Result: updated successfully
+18.05.2017 11:35:47: Reset Password - klaudia.zotzmannkoch - Reset password link sent
+18.05.2017 11:37:33: Add to Group - klaudia.zotzmannkoch - Result: was successfully added to the 'POM CM Interface with UPC Affiliates' group
+18.05.2017 11:37:42: Add to Group - klaudia.zotzmannkoch - Result: was successfully added to the 'POM Day CMS Interface with UPC Affiliates' group
+18.05.2017 11:37:43: Add to Group - klaudia.zotzmannkoch - Result: was successfully added to the 'POM Online Care Products Interface with UPC AT' group
+18.05.2017 11:37:53: Add to Group - klaudia.zotzmannkoch - Result: was successfully added to the 'SMSC DAY CQ5 UAT Interface restricted to create UAT Issues only' group
+18.05.2017 11:38:01: Add to Group - klaudia.zotzmannkoch - Result: was successfully added to the 'UPC Affiliates' group
+18.05.2017 11:46:08: Search - tom.jehaes@telenetgroup.be - Result: Found username - tom.jehaes
+18.05.2017 11:46:16: Add to Group - tom.jehaes - Result: was successfully added to the 'bitbucket-user' group
+18.05.2017 14:38:55: Search - Jan Verhoeven - Result: Found username - jan.verhoeven
+18.05.2017 14:39:04: Add to Group - jan.verhoeven - Result: was successfully added to the 'bitbucket-user' group
+18.05.2017 14:44:56: Search - Jan Verhoeven - Result: Found username - jan.verhoeven
+18.05.2017 14:45:26: Search - ana.ljaljic@ericsson.com - Result: Not Found
+18.05.2017 14:45:53: Create - ana.ljaljic - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: ana.ljaljic@ericsson.com
+18.05.2017 14:45:58: Search - ana.ljaljic@ericsson.com - Result: Found username - ana.ljaljic
+18.05.2017 14:47:01: Search - Adrian Marlow - Result: Not Found
+18.05.2017 14:47:13: Search - adrian.252895@infosys.com - Result: Not Found
+18.05.2017 14:47:25: Create - adrian.252895 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: adrian.252895@infosys.com
+18.05.2017 14:47:28: Search - Adrian Marlow - Result: Found username - adrian.252895
+18.05.2017 14:47:34: Add to Group - adrian.252895 - Result: was successfully added to the 'Infosys' group
+18.05.2017 14:48:31: Search - Thomas.Schapals@unitymedia.de - Result: Not Found
+18.05.2017 14:49:12: Create - Thomas.Schapals - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Thomas.Schapals@unitymedia.de
+18.05.2017 14:49:13: Search - Thomas.Schapals@unitymedia.de - Result: Found username - Thomas.Schapals
+18.05.2017 14:49:21: Add to Group - Thomas.Schapals - Result: was successfully added to the 'Unity Media DE' group
+18.05.2017 14:49:21: Add to Group - Thomas.Schapals - Result: was successfully added to the 'Unity Media' group
+18.05.2017 15:16:12: Search - Hendrik te Winkel - Result: Found username - htewinkel
+18.05.2017 15:17:58: Search - Harshit Pandey (infosys) - Result: Found username - harshit.pandey01
+18.05.2017 15:18:05: Add to Group - harshit.pandey01 - Result: was successfully added to the 'bitbucket-user' group
+18.05.2017 16:26:49: Search - Nikolay Nikolov - Result: Found username - nnikolov
+19.05.2017 08:43:33: Search - pkalman@upcdth.lu - Result: Not Found
+19.05.2017 08:44:02: Create - pkalman - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: pkalman@upcdth.lu
+19.05.2017 08:44:03: Search - pkalman@upcdth.lu - Result: Found username - pkalman
+19.05.2017 08:45:08: Search - nthony Arockiam - Result: Found username - anthony.arockiam
+19.05.2017 08:45:18: Add to Group - anthony.arockiam - Result: was successfully added to the 'bitbucket-user' group
+19.05.2017 09:22:33: Search - Akhil Goel - Result: Found username - akhil_goel
+19.05.2017 09:22:37: Add to Group - akhil_goel - Result: was successfully added to the 'bitbucket-user' group
+19.05.2017 13:39:49: Search - robert.mccann@virginmedia.co.uk - Result: Not Found
+19.05.2017 13:42:41: Create - robert.mccann - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: robert.mccann@virginmedia.co.uk
+19.05.2017 13:42:41: Search - robert.mccann@virginmedia.co.uk - Result: Found username - robert.mccann
+19.05.2017 13:42:53: Add to Group - robert.mccann - Result: was successfully added to the 'Virgin Media UK' group
+19.05.2017 13:42:53: Add to Group - robert.mccann - Result: was successfully added to the 'Virgin Media' group
+19.05.2017 13:44:18: Search - rpeart.contractor@libertyglobal.com - Result: Not Found
+19.05.2017 13:44:55: Create - rpeart.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: rpeart.contractor@libertyglobal.com
+19.05.2017 13:44:56: Search - rpeart.contractor@libertyglobal.com - Result: Found username - rpeart.contractor
+19.05.2017 13:46:21: Search - sergei_listvin - Result: Found username - sergei_listvin
+19.05.2017 13:46:32: Update - sergei_listvin - Result: updated successfully
+19.05.2017 13:48:35: Search - bogdan.timpau@upc.ro - Result: Not Found
+19.05.2017 13:48:49: Create - bogdan.timpau - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: bogdan.timpau@upc.ro
+19.05.2017 13:48:50: Search - bogdan.timpau@upc.ro - Result: Found username - bogdan.timpau
+19.05.2017 13:49:12: Search - Valentin.Plesa@upc.ro - Result: Not Found
+19.05.2017 13:49:30: Create - Valentin.Plesa - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Valentin.Plesa@upc.ro
+19.05.2017 13:49:31: Search - Valentin.Plesa@upc.ro - Result: Found username - Valentin.Plesa
+19.05.2017 13:49:42: Add to Group - Valentin.Plesa - Result: was successfully added to the 'UPC RO' group
+19.05.2017 13:49:57: Search - Alexandru.Visoiu@upc.ro - Result: Found username - Alexandru.Visoiu
+19.05.2017 13:50:11: Add to Group - Alexandru.Visoiu - Result: was successfully added to the 'UPC RO' group
+19.05.2017 13:50:18: Search - IrinelMarian.Ionita@upc.ro - Result: Found username - IrinelMarian.Ionita
+19.05.2017 13:50:31: Search - Mihaela.Pojoga@upc.ro - Result: Not Found
+19.05.2017 13:50:45: Create - Mihaela.Pojoga - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Mihaela.Pojoga@upc.ro
+19.05.2017 13:50:46: Search - Mihaela.Pojoga@upc.ro - Result: Found username - Mihaela.Pojoga
+19.05.2017 13:51:58: Search - Valentin.Plesa@upc.ro - Result: Found username - Valentin.Plesa
+19.05.2017 13:52:44: Search - bogdan.timpau - Result: Found username - bogdan.timpau
+19.05.2017 13:52:57: Add to Group - bogdan.timpau - Result: was successfully added to the 'UPC RO' group
+19.05.2017 13:55:41: Search - bfrunza.contractor@libertyglobal.com - Result: Found username - bfrunza.contractor
+19.05.2017 14:59:04: Search - Chandrashekar Narayana - Result: Found username - nchandrashekar.contractor
+19.05.2017 14:59:12: Add to Group - nchandrashekar.contractor - Result: was successfully added to the 'Horizon Program' group
+19.05.2017 16:19:15: Search - Arseniy_Khaladok@epam.com - Result: Found username - Arseniy_Khaladok
+19.05.2017 16:19:25: Add to Group - Arseniy_Khaladok - Result: was successfully added to the 'Epam' group
+19.05.2017 16:24:08: Search - Arseniy_Khaladok@epam.com - Result: Found username - Arseniy_Khaladok
+19.05.2017 16:24:56: Search - Andrei Ivanou - Result: Not Found
+19.05.2017 16:25:10: Search - Andrei Ivanou - Result: Not Found
+19.05.2017 16:25:24: Search - Andrei_Ivanou2@epam.com - Result: Not Found
+19.05.2017 16:25:38: Create - Andrei_Ivanou2 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Andrei_Ivanou2@epam.com
+19.05.2017 16:25:43: Search - Andrei_Ivanou2@epam.com - Result: Found username - Andrei_Ivanou2
+19.05.2017 16:25:49: Add to Group - Andrei_Ivanou2 - Result: was successfully added to the 'Epam' group
+19.05.2017 16:25:56: Add to Group - Andrei_Ivanou2 - Result: was successfully added to the 'Mercury' group
+19.05.2017 17:03:47: Search - rpeart.contractor@libertyglobal.com - Result: Found username - rpeart.contractor
+19.05.2017 17:03:55: Add to Group - rpeart.contractor - Result: was successfully added to the 'bitbucket-user' group
+19.05.2017 20:55:58: Search - Guus De Kock - Result: Found username - gdekock
+19.05.2017 20:57:53: Search - ababraham@libertyglobal.com - Result: Found username - ababraham
+19.05.2017 20:58:22: Get Groups List - Directory: AD
+19.05.2017 20:58:48: Get Group Members - CTO-OBO. Result: Total: 11: users found
+19.05.2017 20:58:53: Search - keith.wigmore - Result: Found username - keith.wigmore
+19.05.2017 20:58:57: Search - kovacsattila - Result: Found username - kovacsattila
+22.05.2017 07:01:10: Search - lucianotjitrodipo@unitid.nl - Result: Not Found
+22.05.2017 07:01:57: Create - lucianotjitrodipo - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: lucianotjitrodipo@unitid.nl
+22.05.2017 07:02:00: Search - lucianotjitrodipo@unitid.nl - Result: Found username - lucianotjitrodipo
+22.05.2017 07:02:07: Add to Group - lucianotjitrodipo - Result: was successfully added to the 'UNITiD' group
+22.05.2017 10:20:06: Search - jafolalu@libertyglobal.com - Result: Found username - jafolalu
+22.05.2017 10:20:14: Reset Password - jafolalu - Reset password link sent
+22.05.2017 10:21:12: Search - Chris Hau - Result: Found username - chau
+22.05.2017 10:22:07: Search - Marinus Snyman - Result: Found username - msnyman2
+22.05.2017 10:22:26: Search - jafolalu@libertyglobal.com - Result: Found username - jafolalu
+22.05.2017 11:39:58: Search - Kiryl_Kukhavets@epam.com - Result: Not Found
+22.05.2017 11:40:13: Create - Kiryl_Kukhavets - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Kiryl_Kukhavets@epam.com
+22.05.2017 11:40:19: Search - Kiryl_Kukhavets@epam.com - Result: Found username - Kiryl_Kukhavets
+22.05.2017 11:40:28: Add to Group - Kiryl_Kukhavets - Result: was successfully added to the 'Epam' group
+22.05.2017 11:40:40: Add to Group - Kiryl_Kukhavets - Result: was successfully added to the 'EPAM-ONEMUI' group
+22.05.2017 11:40:49: Add to Group - Kiryl_Kukhavets - Result: was successfully added to the 'ONEMUI' group
+22.05.2017 11:42:08: Search - Martin van Pelt - Result: Found username - mvanpelt
+22.05.2017 11:43:45: Search - Paul_Kuriyan - Result: Found username - Paul_Kuriyan
+22.05.2017 11:44:11: Reset Password - Paul_Kuriyan - Reset password link sent
+22.05.2017 11:46:47: Search - markus.ehrhard@nagra.com - Result: Found username - markus.ehrhard
+22.05.2017 12:01:43: Search - uahmed.contractor@libertyglobal.com - Result: Not Found
+22.05.2017 12:01:57: Create - uahmed.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: uahmed.contractor@libertyglobal.com
+22.05.2017 12:01:57: Search - uahmed.contractor@libertyglobal.com - Result: Found username - uahmed.contractor
+22.05.2017 13:25:50: Search - Kseniia Saievych (Wiztivi) - Result: Found username - ksaievych
+22.05.2017 13:26:09: Add to Group - ksaievych - Result: was successfully added to the 'ONEMUI' group
+22.05.2017 13:26:10: Add to Group - ksaievych - Result: was successfully added to the 'ONEMUI-users' group
+22.05.2017 13:26:16: Add to Group - ksaievych - Result: was successfully added to the 'OneMW-users' group
+22.05.2017 13:33:42: Search - Alexey_Suprun@epam.com - Result: Not Found
+22.05.2017 13:33:52: Create - Alexey_Suprun - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Alexey_Suprun@epam.com
+22.05.2017 13:33:56: Search - Alexey_Suprun@epam.com - Result: Found username - Alexey_Suprun
+22.05.2017 13:34:04: Add to Group - Alexey_Suprun - Result: was successfully added to the 'Epam' group
+22.05.2017 13:44:25: Search - David van Duinen - Result: Found username - davidvanduinen
+22.05.2017 13:45:06: Search - jeremy.bivaud.prestataire@wiztivi.com - Result: Found username - jeremy.bivaud.prestataire
+22.05.2017 13:45:21: Add to Group - jeremy.bivaud.prestataire - Result: was successfully added to the 'ONEMUI-users' group
+22.05.2017 13:45:21: Add to Group - jeremy.bivaud.prestataire - Result: was successfully added to the 'ONEMUI' group
+22.05.2017 13:45:21: Add to Group - jeremy.bivaud.prestataire - Result: was successfully added to the 'OneMW-users' group
+22.05.2017 13:46:45: Search - Rajalakshmi_M01@infosys.com - Result: Found username - Rajalakshmi_M01
+22.05.2017 13:46:53: Reset Password - Rajalakshmi_M01 - Reset password link sent
+22.05.2017 13:47:07: Search - Bhavya_GM@infosys.com - Result: Found username - Bhavya_GM
+22.05.2017 13:47:11: Reset Password - Bhavya_GM - Reset password link sent
+22.05.2017 14:34:16: Search - sjuco@lgi.com - Result: Found username - sjuco
+22.05.2017 14:34:51: Search - sjuco1@lgi.com - Result: Not Found
+22.05.2017 14:35:36: Create - sjuco - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: sjuco@lgi.com
+22.05.2017 14:35:37: Search - sjuco@lgi.com - Result: Found username - sjuco
+22.05.2017 14:38:24: Search - vrapaic@libertyglobal.com - Result: Not Found
+22.05.2017 14:38:44: Create - vrapaic - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: vrapaic@libertyglobal.com
+22.05.2017 14:38:44: Search - vrapaic@libertyglobal.com - Result: Found username - vrapaic
+22.05.2017 14:44:38: Search - jovancevic@tmns.com - Result: Not Found
+22.05.2017 14:45:40: Search - vikramraj_dussa - Result: Found username - vikramraj_dussa
+22.05.2017 14:45:51: Add to Group - vikramraj_dussa - Result: was successfully added to the 'bitbucket-user' group
+22.05.2017 14:46:04: Search - anil.vadla - Result: Found username - anil.vadla
+22.05.2017 14:46:28: Add to Group - anil.vadla - Result: was successfully added to the 'bitbucket-user' group
+22.05.2017 14:47:46: Search - jjovancevic@tmns.com - Result: Not Found
+22.05.2017 14:48:05: Create - jjovancevic - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: jjovancevic@tmns.com
+22.05.2017 14:48:11: Search - jjovancevic@tmns.com - Result: Found username - jjovancevic
+22.05.2017 14:48:20: Add to Group - jjovancevic - Result: was successfully added to the 'TMNS' group
+22.05.2017 14:51:18: Search - amilenkovic@tmns.com - Result: Not Found
+22.05.2017 14:51:35: Create - amilenkovic - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: amilenkovic@tmns.com
+22.05.2017 14:51:46: Search - amilenkovic@tmns.com - Result: Not Found
+22.05.2017 14:52:00: Search - amilenkovic@tmns.com - Result: Not Found
+22.05.2017 14:52:22: Search - Aleksandra Milenkovic - Result: Not Found
+22.05.2017 14:52:33: Search - amilenkovic@tmns.com - Result: Not Found
+22.05.2017 14:52:48: Create - amilenkovic - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: amilenkovic@tmns.com
+22.05.2017 14:52:51: Search - amilenkovic@tmns.com - Result: Found username - amilenkovic
+22.05.2017 14:52:58: Add to Group - amilenkovic - Result: was successfully added to the 'TMNS' group
+22.05.2017 14:55:12: Search - Jovana Jovancevic - Result: Found username - jjovancevic
+22.05.2017 14:57:29: Search - Sree Keerthi V.K (Infosys) - Result: Not Found
+22.05.2017 14:57:57: Search - Sree Keerthi V.K - Result: Found username - sreekeerthi.vk
+22.05.2017 14:58:22: Add to Group - sreekeerthi.vk - Result: was successfully added to the 'AEM Developer' group
+22.05.2017 15:51:43: Search - uros.krstic - Result: Found username - uros.krstic
+22.05.2017 15:52:00: Search - anthony.arockiam - Result: Found username - anthony.arockiam
+22.05.2017 15:54:38: Search - kusaha.contractor - Result: Found username - kusaha.contractor
+22.05.2017 15:55:54: Add to Group - kusaha.contractor - Result: was successfully added to the 'pcteam_apache_root_RW' group
+22.05.2017 15:55:54: Add to Group - kusaha.contractor - Result: was successfully added to the 'pcteam_apache_root_RO' group
+22.05.2017 15:59:16: Add to Group - kusaha.contractor - Result: was successfully added to the 'pcteam_aem_RW' group
+22.05.2017 15:59:16: Add to Group - kusaha.contractor - Result: was successfully added to the 'pcteam_root_RO' group
+22.05.2017 15:59:54: Search - ragupta@libertyglobal.com - Result: Found username - ragupta
+22.05.2017 16:00:04: Reset Password - ragupta - Reset password link sent
+22.05.2017 17:38:01: Search - william.van.haevre@telenetgroup.be - Result: Not Found
+22.05.2017 17:38:24: Create - william.van.haevre - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: william.van.haevre@telenetgroup.be
+22.05.2017 17:38:26: Search - william.van.haevre@telenetgroup.be - Result: Found username - william.van.haevre
+22.05.2017 17:38:40: Add to Group - william.van.haevre - Result: was successfully added to the 'Telenet' group
+22.05.2017 17:38:48: Add to Group - william.van.haevre - Result: was successfully added to the 'E2E SI' group
+23.05.2017 09:14:47: Search - Sree Keerthi V.K - Result: Found username - sreekeerthi.vk
+23.05.2017 09:15:11: Add to Group - sreekeerthi.vk - Result: was successfully added to the 'pcteam_style_pc_RW' group
+23.05.2017 10:58:21: Search - Nishant - Result: Not Found
+23.05.2017 10:59:53: Add to Group - sreekeerthi.vk - Result: was successfully added to the 'pcteam_root_RW' group
+23.05.2017 10:59:53: Add to Group - sreekeerthi.vk - Result: was successfully added to the 'pcteam_root_RO' group
+23.05.2017 11:00:02: Remove User From Group - sreekeerthi.vk. Result: user removed from the groups: 'pcteam_style_pc_RW' 
+23.05.2017 11:38:54: Search - arsharma.contractor Arjun Sharma - Result: Not Found
+23.05.2017 11:39:02: Search - arsharma.contractor - Result: Found username - arsharma.contractor
+23.05.2017 11:39:10: Reset Password - arsharma.contractor - Reset password link sent
+23.05.2017 11:42:35: Search - aadler@libertyglobal.com - Result: Not Found
+23.05.2017 11:43:08: Search - Amir Adler - Result: Not Found
+23.05.2017 11:43:19: Search - aadler@libertyglobal.com - Result: Not Found
+23.05.2017 11:43:45: Create - aadler - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: aadler@libertyglobal.com
+23.05.2017 11:43:45: Search - aadler@libertyglobal.com - Result: Found username - aadler
+23.05.2017 11:44:59: Search - Stijn Goffin - Result: Found username - sgoffin
+23.05.2017 12:05:57: Search - ngaynor.contractor@libertyglobal.com - Result: Found username - ngaynor.contractor
+23.05.2017 12:06:05: Add to Group - ngaynor.contractor - Result: was successfully added to the 'OBO-Collaborators' group
+23.05.2017 13:09:01: Search - gopidi.sanjana.reddy - Result: Found username - gopidi.sanjana.reddy
+23.05.2017 14:53:01: Search - Akshaya N - Result: Found username - Akshaya_N01
+23.05.2017 14:53:18: Add to Group - Akshaya_N01 - Result: was successfully added to the 'AEM Developer' group
+23.05.2017 15:44:54: Search - ddjoukwai.contractor@libertyglobal.com - Result: Not Found
+23.05.2017 15:45:42: Create - ddjoukwai.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: ddjoukwai.contractor@libertyglobal.com
+23.05.2017 15:45:43: Search - ddjoukwai.contractor@libertyglobal.com - Result: Found username - ddjoukwai.contractor
+23.05.2017 15:47:46: Search - tom.van.laerhoven@telenetgroup.be - Result: Not Found
+23.05.2017 15:48:13: Create - tom.van.laerhoven - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: tom.van.laerhoven@telenetgroup.be
+23.05.2017 15:48:16: Search - tom.van.laerhoven@telenetgroup.be - Result: Found username - tom.van.laerhoven
+23.05.2017 15:48:24: Add to Group - tom.van.laerhoven - Result: was successfully added to the 'E2E SI' group
+24.05.2017 07:06:56: Search - pfdeboer@libertyglobal.com - Result: Found username - pfdeboer
+24.05.2017 07:07:22: Search - godson_shanthini@infosys.com - Result: Found username - godson_shanthini
+24.05.2017 11:49:09: Search - elena.radu@ericsson.com - Result: Not Found
+24.05.2017 11:49:34: Create - elena.radu - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: elena.radu@ericsson.com
+24.05.2017 11:49:39: Search - elena.radu@ericsson.com - Result: Found username - elena.radu
+24.05.2017 11:53:38: Search - romain.aga.prestataire@wiztivi.fr - Result: Not Found
+24.05.2017 11:53:51: Create - romain.aga.prestataire - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: romain.aga.prestataire@wiztivi.fr
+24.05.2017 11:53:56: Search - romain.aga.prestataire@wiztivi.fr - Result: Found username - romain.aga.prestataire
+24.05.2017 11:54:28: Search - bastien.bonard.prestataire@wiztivi.com - Result: Not Found
+24.05.2017 11:54:57: Create - bastien.bonard.prestataire - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: bastien.bonard.prestataire@wiztivi.com
+24.05.2017 11:55:00: Search - bastien.bonard.prestataire@wiztivi.com - Result: Found username - bastien.bonard.prestataire
+24.05.2017 11:56:13: Search - nicolas.perroy.prestataire@wiztivi.com - Result: Not Found
+24.05.2017 11:56:29: Create - nicolas.perroy.prestataire - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nicolas.perroy.prestataire@wiztivi.com
+24.05.2017 11:56:34: Search - nicolas.perroy.prestataire@wiztivi.com - Result: Found username - nicolas.perroy.prestataire
+24.05.2017 11:59:29: Search - Bhuvanarani M.R. - Result: Found username - bhuvanarani.mr
+24.05.2017 11:59:36: Add to Group - bhuvanarani.mr - Result: was successfully added to the 'AEM Developer' group
+24.05.2017 12:07:17: Search - Amir Adler - Result: Found username - aadler
+24.05.2017 12:07:31: Add to Group - aadler - Result: was successfully added to the 'TI_Testing_ALL' group
+24.05.2017 15:08:05: Search - Stephen.Kelly - Result: Found username - stephen.kelly
+24.05.2017 15:08:34: Reset Password - stephen.kelly - Reset password link sent
+24.05.2017 15:11:33: Search - michel.roofthooft - Result: Found username - michel.roofthooft
+24.05.2017 15:11:44: Add to Group - michel.roofthooft - Result: was successfully added to the 'E2E-SI-INT' group
+24.05.2017 16:00:44: Search - imaarek.contractor - Result: Found username - imaarek.contractor
+24.05.2017 16:00:56: Add to Group - imaarek.contractor - Result: was successfully added to the 'Horizon Program' group
+24.05.2017 16:25:00: Search - mvanpelt@libertyglobal.com - Result: Found username - mvanpelt
+24.05.2017 17:03:38: Search - Dmitrii_Ilin1@epam.com - Result: Not Found
+24.05.2017 17:03:51: Create - Dmitrii_Ilin1 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Dmitrii_Ilin1@epam.com
+24.05.2017 17:03:58: Search - Dmitrii_Ilin1@epam.com - Result: Found username - Dmitrii_Ilin1
+24.05.2017 17:04:16: Add to Group - Dmitrii_Ilin1 - Result: was successfully added to the 'Epam' group
+25.05.2017 10:54:42: Search - juancarlos.venegas@vtr.cl - Result: Found username - juancarlos.venegas
+25.05.2017 10:54:53: Reset Password - juancarlos.venegas - Reset password link sent
+25.05.2017 10:57:56: Search - Jean-Paul Hemelaar - Result: Found username - jhamelaar.contractor
+25.05.2017 10:58:21: Add to Group - jhamelaar.contractor - Result: was successfully added to the 'Video Back Office Software Development' group
+25.05.2017 11:00:01: Search - paola.millan@e.vtr.cl - Result: Found username - paola.millan
+25.05.2017 12:05:49: Search - Stanislaw Pruzhanski - Result: Found username - stanislaw_pruzhanski
+25.05.2017 12:06:05: Update - stanislaw_pruzhanski - Result: updated successfully
+25.05.2017 12:08:16: Search - Siarhei Cherkas - Result: Found username - Siarhei_Cherkas
+25.05.2017 12:08:28: Update - Siarhei_Cherkas - Result: updated successfully
+25.05.2017 12:08:37: Search - Anton Komarovsky - Result: Found username - anton_komarovsky
+25.05.2017 12:08:47: Update - anton_komarovsky - Result: updated successfully
+25.05.2017 12:09:03: Search - Ihar Zharski - Result: Found username - Ihar_Zharski1
+25.05.2017 12:09:17: Update - Ihar_Zharski1 - Result: updated successfully
+25.05.2017 12:09:29: Search - Victor Pergament - Result: Found username - Victor_Pergament
+25.05.2017 12:09:42: Update - Victor_Pergament - Result: updated successfully
+25.05.2017 13:03:32: Search - nutan_chougule@infosys.com - Result: Not Found
+25.05.2017 13:04:00: Create - nutan_chougule - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nutan_chougule@infosys.com
+25.05.2017 13:04:05: Search - nutan_chougule@infosys.com - Result: Found username - nutan_chougule
+25.05.2017 13:04:12: Add to Group - nutan_chougule - Result: was successfully added to the 'Infosys' group
+25.05.2017 15:48:49: Search - Arun.Mundhra@infosys.com - Result: Not Found
+25.05.2017 15:49:03: Create - Arun.Mundhra - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Arun.Mundhra@infosys.com
+25.05.2017 15:49:07: Search - Arun.Mundhra@infosys.com - Result: Found username - Arun.Mundhra
+25.05.2017 15:49:29: Add to Group - Arun.Mundhra - Result: was successfully added to the 'pcteam_root_RW' group
+25.05.2017 15:49:30: Add to Group - Arun.Mundhra - Result: was successfully added to the 'pcteam_root_RO' group
+26.05.2017 09:48:37: Search - Ashok Pichaivel - Result: Found username - Ashok_Pichaivel
+26.05.2017 09:48:48: Add to Group - Ashok_Pichaivel - Result: was successfully added to the 'AEM Developer' group
+26.05.2017 13:36:19: Search - mark.bowditch@virginmedia.co.uk - Result: Not Found
+26.05.2017 13:36:45: Create - mark.bowditch - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: mark.bowditch@virginmedia.co.uk
+26.05.2017 13:36:46: Search - mark.bowditch@virginmedia.co.uk - Result: Found username - mark.bowditch
+26.05.2017 13:37:02: Add to Group - mark.bowditch - Result: was successfully added to the 'Virgin Media UK' group
+26.05.2017 13:37:02: Add to Group - mark.bowditch - Result: was successfully added to the 'Virgin Media' group
+26.05.2017 16:32:30: Search - Neli.Dimova@amdocs.com - Result: Not Found
+26.05.2017 16:32:42: Create - Neli.Dimova - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Neli.Dimova@amdocs.com
+26.05.2017 16:32:46: Search - Neli.Dimova@amdocs.com - Result: Found username - Neli.Dimova
+29.05.2017 10:33:59: Search - ashwini.puranik@virginmedia.co.uk - Result: Not Found
+29.05.2017 10:34:17: Create - ashwini.puranik - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: ashwini.puranik@virginmedia.co.uk
+29.05.2017 10:34:18: Search - ashwini.puranik@virginmedia.co.uk - Result: Found username - ashwini.puranik
+29.05.2017 10:37:01: Add to Group - ashwini.puranik - Result: was successfully added to the 'Virgin Media' group
+29.05.2017 10:37:02: Add to Group - ashwini.puranik - Result: was successfully added to the 'Virgin Media UK' group
+29.05.2017 10:37:18: Search - sushma s - Result: Found username - sushma_shetty03
+29.05.2017 11:14:03: Search - m.moes@developers.nl - Result: Not Found
+29.05.2017 11:14:16: Create - m.moes - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: m.moes@developers.nl
+29.05.2017 11:14:19: Search - m.moes@developers.nl - Result: Found username - m.moes
+29.05.2017 11:14:28: Update - m.moes - Result: updated successfully
+29.05.2017 11:18:56: Search - rajini n - Result: Found username - rareddy.contractor
+29.05.2017 14:22:27: Search - rajini n - Result: Found username - rareddy.contractor
+29.05.2017 14:23:22: Search - leoniederuiter@unitid.nl - Result: Not Found
+29.05.2017 14:24:02: Create - leoniederuiter - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: leoniederuiter@unitid.nl
+29.05.2017 14:24:13: Search - leoniederuiter@unitid.nl - Result: Found username - leoniederuiter
+29.05.2017 14:24:32: Add to Group - leoniederuiter - Result: was successfully added to the 'UNITiD' group
+29.05.2017 14:52:17: Search - Mark Moes - Result: Found username - m.moes
+29.05.2017 14:54:32: Update - m.moes - Result: updated successfully
+29.05.2017 14:54:36: Add to Group - m.moes - Result: was successfully added to the 'bitbucket-user' group
+29.05.2017 14:56:12: Search - R Peart - Result: Found username - rpeart.contractor
+29.05.2017 14:56:36: Get Groups List - Directory: AD
+29.05.2017 14:56:52: Get Group Members - CTO-OBO. Result: Total: 11: users found
+29.05.2017 14:57:22: Search - rdepping.contractor - Result: Found username - rdepping.contractor
+29.05.2017 15:00:56: Search - Manuel Tillmann - Result: Found username - mtillmann
+29.05.2017 16:35:15: Search - Esteban Pizarro - Result: Not Found
+29.05.2017 16:35:48: Search - epizarro@vgl.cl - Result: Not Found
+29.05.2017 16:36:24: Create - epizarro - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: epizarro@vgl.cl
+29.05.2017 16:36:39: Search - epizarro - Result: Found username - epizarro
+29.05.2017 18:14:18: Search - jbrekelmans.contractor@libertyglobal.com - Result: Not Found
+29.05.2017 18:14:34: Create - jbrekelmans.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: jbrekelmans.contractor@libertyglobal.com
+29.05.2017 18:14:36: Search - jbrekelmans.contractor@libertyglobal.com - Result: Found username - jbrekelmans.contractor
+29.05.2017 18:18:16: Search - bsinnige.contractor@libertyglobal.com - Result: Not Found
+29.05.2017 18:18:32: Create - bsinnige.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: bsinnige.contractor@libertyglobal.com
+29.05.2017 18:18:32: Search - bsinnige.contractor@libertyglobal.com - Result: Found username - bsinnige.contractor
+30.05.2017 09:03:20: Search - sanjeevarayudu.t@infosys.com - Result: Found username - sanjeevarayudu.t
+30.05.2017 09:04:08: Update - sanjeevarayudu.t - Result: updated successfully
+30.05.2017 09:04:19: Update - sanjeevarayudu.t - Result: updated successfully
+30.05.2017 09:06:49: Reset Password - sanjeevarayudu.t - Reset password link sent
+30.05.2017 09:09:40: Search - Erik Hurtado - Result: Not Found
+30.05.2017 09:09:57: Search - erik.hurtado@vtr.cl - Result: Not Found
+30.05.2017 09:10:14: Create - erik.hurtado - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: erik.hurtado@vtr.cl
+30.05.2017 09:10:16: Search - Erik Hurtado - Result: Found username - erik.hurtado
+30.05.2017 09:10:22: Add to Group - erik.hurtado - Result: was successfully added to the 'VTR' group
+30.05.2017 09:45:09: Search - hgeorge.contractor Hanzan George - Result: Not Found
+30.05.2017 09:45:12: Search - hgeorge.contractor - Result: Found username - hgeorge.contractor
+30.05.2017 10:37:48: Search - rest0123 - Result: Not Found
+30.05.2017 10:37:55: Search - test0123 - Result: Not Found
+30.05.2017 10:38:01: Search - test123 - Result: Not Found
+30.05.2017 10:38:05: Search - test te - Result: Found username - test0321
+30.05.2017 10:38:13: Reset Password - test0321 - Reset password link sent
+30.05.2017 11:20:20: Search - akansha_tiwari@infosys.com - Result: Not Found
+30.05.2017 11:20:36: Create - akansha_tiwari - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: akansha_tiwari@infosys.com
+30.05.2017 11:20:39: Search - akansha_tiwari@infosys.com - Result: Found username - akansha_tiwari
+30.05.2017 11:20:43: Add to Group - akansha_tiwari - Result: was successfully added to the 'Infosys' group
+30.05.2017 11:30:24: Search - mcomitini.contractor@libertyglobal.com - Result: Not Found
+30.05.2017 11:30:36: Create - mcomitini.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: mcomitini.contractor@libertyglobal.com
+30.05.2017 11:30:36: Search - mcomitini.contractor@libertyglobal.com - Result: Found username - mcomitini.contractor
+30.05.2017 12:31:26: Search - ryan.lauterbach@piksel.com - Result: Found username - ryan.lauterbach
+30.05.2017 12:32:10: Search - Oleg Sigida - Result: Found username - osigida
+30.05.2017 12:32:11: Search - Oleg Sigida - Result: Found username - osigida
+30.05.2017 12:33:08: Search - ryan.lauterbach@piksel.com - Result: Found username - ryan.lauterbach
+30.05.2017 13:00:17: Search - Dzmitry_Kavalenka1@epam.com - Result: Not Found
+30.05.2017 13:00:29: Create - Dzmitry_Kavalenka1 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Dzmitry_Kavalenka1@epam.com
+30.05.2017 13:00:32: Search - Dzmitry_Kavalenka1@epam.com - Result: Found username - Dzmitry_Kavalenka1
+30.05.2017 13:00:36: Add to Group - Dzmitry_Kavalenka1 - Result: was successfully added to the 'Epam' group
+30.05.2017 13:35:22: Search - oriffi.contractor@libertyglobal.com - Result: Not Found
+30.05.2017 13:35:29: Search - Omar Riffi - Result: Not Found
+30.05.2017 13:35:31: Search - Omar R - Result: Found username - orubio
+30.05.2017 13:35:46: Search - oriffi.contractor@libertyglobal.com - Result: Not Found
+30.05.2017 13:35:58: Create - oriffi.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: oriffi.contractor@libertyglobal.com
+30.05.2017 13:35:59: Search - oriffi.contractor@libertyglobal.com - Result: Found username - oriffi.contractor
+30.05.2017 14:30:29: Search - ababraham@libertyglobal.com - Result: Found username - ababraham
+30.05.2017 14:30:40: Search - Abbin Abraham - Result: Found username - ababraham
+30.05.2017 16:08:11: Search - test0321 - Result: Found username - test0321
+30.05.2017 16:13:00: Search - Tabassam Shakeel - Result: Found username - stabassam
+30.05.2017 19:38:11: Search - matthis.serru.prestataire@wiztivi.com - Result: Not Found
+30.05.2017 19:39:14: Create - matthis.serru.prestataire - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: matthis.serru.prestataire@wiztivi.com
+30.05.2017 19:39:16: Search - matthis.serru.prestataire@wiztivi.com - Result: Found username - matthis.serru.prestataire
+30.05.2017 19:39:24: Add to Group - matthis.serru.prestataire - Result: was successfully added to the 'wiztivi' group
+30.05.2017 19:39:45: Add to Group - matthis.serru.prestataire - Result: was successfully added to the 'ONEMUI-users' group
+30.05.2017 19:39:45: Add to Group - matthis.serru.prestataire - Result: was successfully added to the 'ONEMUI' group
+30.05.2017 19:39:56: Add to Group - matthis.serru.prestataire - Result: was successfully added to the 'OneMW-users' group
+30.05.2017 19:41:41: Search - michael.theissen@unitymedia.de - Result: Not Found
+30.05.2017 19:42:31: Create - michael.theissen - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: michael.theissen@unitymedia.de
+30.05.2017 19:42:31: Search - michael.theissen@unitymedia.de - Result: Found username - michael.theissen
+31.05.2017 08:13:06: Search - rashmi_mirji@infosys.com - Result: Found username - rashmi_mirji
+31.05.2017 08:13:26: Update - rashmi_mirji - Result: updated successfully
+31.05.2017 11:10:29: Search - Eduardo Coria - Result: Found username - ecoria.contractor
+31.05.2017 11:10:41: Search - Eduardo Coria - Result: Found username - ecoria.contractor
+31.05.2017 11:10:44: Add to Group - ecoria.contractor - Result: was successfully added to the 'bitbucket-user' group
+31.05.2017 13:07:10: Search - Sree Keerthi V.K - Result: Found username - sreekeerthi.vk
+31.05.2017 13:07:37: Add to Group - sreekeerthi.vk - Result: was successfully added to the 'pcteam-readonly' group
+31.05.2017 16:17:56: Search - glenn.bergmans@telenetgroup.be - Result: Not Found
+31.05.2017 16:18:27: Create - glenn.bergmans - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: glenn.bergmans@telenetgroup.be
+31.05.2017 16:18:27: Search - glenn.bergmans@telenetgroup.be - Result: Found username - glenn.bergmans
+31.05.2017 16:18:38: Add to Group - glenn.bergmans - Result: was successfully added to the 'Telenet' group
+31.05.2017 16:19:52: Search - stijn.luyten@telenetgroup.be - Result: Not Found
+31.05.2017 16:20:10: Create - stijn.luyten - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: stijn.luyten@telenetgroup.be
+31.05.2017 16:20:10: Search - stijn.luyten@telenetgroup.be - Result: Found username - stijn.luyten
+31.05.2017 16:20:15: Add to Group - stijn.luyten - Result: was successfully added to the 'Telenet' group
+01.06.2017 08:25:50: Search - Tigran.Tadevosyan@comtrend.com - Result: Not Found
+01.06.2017 08:26:03: Create - Tigran.Tadevosyan - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Tigran.Tadevosyan@comtrend.com
+01.06.2017 08:26:06: Search - Tigran.Tadevosyan@comtrend.com - Result: Found username - Tigran.Tadevosyan
+01.06.2017 08:26:16: Add to Group - Tigran.Tadevosyan - Result: was successfully added to the 'Comtrend' group
+01.06.2017 08:28:25: Search - Amir Adler - Result: Found username - aadler
+01.06.2017 12:35:54: Search - Amir Adler - Result: Found username - aadler
+01.06.2017 12:45:41: Search - rayubov@libertyglobal.com - Result: Found username - rayubov
+01.06.2017 12:48:59: Search - rgupta@libertyglobal.com - Result: Found username - rgupta
+01.06.2017 12:49:06: Remove User From Group - rgupta. Result: user removed from the groups: 'Service Monitoring and Assurance' 
+01.06.2017 12:52:55: Search - pamonkar.contractor@libertyglobal.com - Result: Not Found
+01.06.2017 12:53:10: Create - pamonkar.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: pamonkar.contractor@libertyglobal.com
+01.06.2017 12:53:10: Search - pamonkar.contractor@libertyglobal.com - Result: Found username - pamonkar.contractor
+01.06.2017 12:53:33: Search - ogjorgjievska@libertyglobal.com - Result: Found username - ogjorgjievska
+01.06.2017 12:54:00: Search - ogjorgjievska@libertyglobal.com - Result: Found username - ogjorgjievska
+01.06.2017 12:54:25: Search - ogjorgjievska1@libertyglobal.com - Result: Not Found
+01.06.2017 12:54:57: Create - ogjorgjievska1 - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: ogjorgjievska@libertyglobal.com
+01.06.2017 12:54:58: Search - ogjorgjievska1@libertyglobal.com - Result: Found username - ogjorgjievska1
+01.06.2017 12:56:26: Search - subodakunta.contractor@libertyglobal.com - Result: Not Found
+01.06.2017 12:56:46: Create - subodakunta.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: subodakunta.contractor@libertyglobal.com
+01.06.2017 12:56:47: Search - subodakunta.contractor@libertyglobal.com - Result: Found username - subodakunta.contractor
+01.06.2017 12:57:16: Search - aabilash.contractor@libertyglobal.com (Abilash Alexander) - Result: Not Found
+01.06.2017 12:58:03: Create - aabilash.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: aabilash.contractor@libertyglobal.com
+01.06.2017 12:58:04: Search - aabilash.contractor@libertyglobal.com - Result: Found username - aabilash.contractor
+01.06.2017 13:04:44: Search - alepakshi.contractor@libertyglobal.com - Result: Not Found
+01.06.2017 13:05:08: Create - alepakshi.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: alepakshi.contractor@libertyglobal.com
+01.06.2017 13:05:09: Search - alepakshi.contractor@libertyglobal.com - Result: Found username - alepakshi.contractor
+01.06.2017 13:05:36: Search - pswaroop.contractor@libertyglobal.com - Result: Not Found
+01.06.2017 13:06:04: Create - pswaroop.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: pswaroop.contractor@libertyglobal.com
+01.06.2017 13:06:05: Search - pswaroop.contractor@libertyglobal.com - Result: Found username - pswaroop.contractor
+01.06.2017 13:07:42: Search - sophie.oglesson@virginmedia.co.uk - Result: Not Found
+01.06.2017 13:08:11: Create - sophie.oglesson - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: sophie.oglesson@virginmedia.co.uk
+01.06.2017 13:08:12: Search - sophie.oglesson@virginmedia.co.uk - Result: Found username - sophie.oglesson
+01.06.2017 13:09:35: Add to Group - sophie.oglesson - Result: was successfully added to the 'Virgin Media UK' group
+01.06.2017 13:09:35: Add to Group - sophie.oglesson - Result: was successfully added to the 'Virgin Media' group
+01.06.2017 13:11:42: Search - kkolev.contractor@libertyglobal.com - Result: Not Found
+01.06.2017 13:11:54: Create - kkolev.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: kkolev.contractor@libertyglobal.com
+01.06.2017 13:11:55: Search - kkolev.contractor@libertyglobal.com - Result: Found username - kkolev.contractor
+01.06.2017 13:19:03: Search - Anastasiya_Karapetava@epam.com - Result: Not Found
+01.06.2017 13:19:55: Create - Anastasiya_Karapetava - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Anastasiya_Karapetava@epam.com
+01.06.2017 13:19:58: Search - Anastasiya_Karapetava@epam.com - Result: Found username - Anastasiya_Karapetava
+01.06.2017 13:22:58: Add to Group - Anastasiya_Karapetava - Result: was successfully added to the 'Epam' group
+01.06.2017 13:23:03: Add to Group - Anastasiya_Karapetava - Result: was successfully added to the 'Mercury' group
+01.06.2017 15:31:00: Search - marco.schifferer@upc.ch - Result: Found username - Marco.Schifferer
+01.06.2017 15:45:41: Search - Saurav.Kumar23@infosys.com - Result: Found username - saurav.kumar23
+01.06.2017 15:45:57: Add to Group - saurav.kumar23 - Result: was successfully added to the 'pcteam-readonly' group
+01.06.2017 15:46:08: Add to Group - saurav.kumar23 - Result: was successfully added to the 'pcteam-readonly' group
+01.06.2017 15:46:09: Add to Group - saurav.kumar23 - Result: was successfully added to the 'pcteam_CQ5_RO' group
+01.06.2017 15:46:09: Add to Group - saurav.kumar23 - Result: was successfully added to the 'pcteam_CQ5_RW' group
+01.06.2017 15:47:36: Search - owassell@nomensa.com - Result: Not Found
+01.06.2017 15:47:55: Create - owassell - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: owassell@nomensa.com
+01.06.2017 15:47:58: Search - owassell@nomensa.com - Result: Found username - owassell
+01.06.2017 15:48:04: Add to Group - owassell - Result: was successfully added to the 'Nomensa' group
+01.06.2017 17:05:14: Search - Sarah Golley - Result: Not Found
+01.06.2017 17:18:31: Search - owassell - Result: Found username - owassell
+01.06.2017 17:18:35: Search - owassell' - Result: Not Found
+01.06.2017 17:18:40: Search - owassell\ - Result: Not Found
+01.06.2017 17:18:44: Search - owassell - Result: Found username - owassell
+02.06.2017 09:54:50: Search - Auto_LIBG-140_Sync@epam.com - Result: Found username - Auto_LIBG-140_Sync
+02.06.2017 09:57:05: Reset Password - Auto_LIBG-140_Sync - Reset password link sent
+02.06.2017 09:58:47: Search - anvleeuwen Andre van Leeuwen - Result: Not Found
+02.06.2017 09:58:50: Search - anvleeuwen - Result: Found username - anvleeuwen
+02.06.2017 10:05:05: Search - Shibu Salalm - Result: Found username - ssalam.contractor
+02.06.2017 12:12:21: Search - pawel.folaron@ericcson.com - Result: Not Found
+02.06.2017 12:12:41: Create - pawel.folaron - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: pawel.folaron@ericcson.com
+02.06.2017 12:12:44: Search - pawel.folaron@ericcson.com - Result: Found username - pawel.folaron
+02.06.2017 12:15:37: Search - ralf.dehos@unitymedia.de - Result: Found username - ralf.dehos
+02.06.2017 12:15:56: Reset Password - ralf.dehos - Reset password link sent
+02.06.2017 12:25:50: Search - pawel.folaron@ericsson.com - Result: Found username - pawel.folaron
+02.06.2017 12:26:06: Delete User - pawel.folaron - Result: successfully removed from the system
+02.06.2017 12:26:16: Search - ppawel.folaron@ericsson.com - Result: Not Found
+02.06.2017 12:27:02: Create - ppawel.folaron - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: ppawel.folaron@ericsson.com
+02.06.2017 12:27:05: Search - ppawel.folaron@ericsson.com - Result: Found username - ppawel.folaron
+02.06.2017 15:17:28: Search - jafc - Result: Not Found
+02.06.2017 15:17:34: Search - jafc bot - Result: Not Found
+02.06.2017 15:17:50: Search - jira automation - Result: Found username - JAFC_BOT
+02.06.2017 15:19:07: Search - Aliaksei_Pashkouski@epam.com - Result: Not Found
+02.06.2017 15:19:22: Create - Aliaksei_Pashkouski - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Aliaksei_Pashkouski@epam.com
+02.06.2017 15:19:24: Search - Aliaksei_Pashkouski@epam.com - Result: Found username - Aliaksei_Pashkouski
+02.06.2017 15:19:32: Add to Group - Aliaksei_Pashkouski - Result: was successfully added to the 'Epam' group
+02.06.2017 15:21:17: Search - mpastor@libertyglobal.com - Result: Found username - mpastor
+02.06.2017 15:52:15: Search - Angelica Martinez - Result: Found username - amartinez
+02.06.2017 15:53:58: Search - linda.graham@virginmedia.co.uk - Result: Found username - linda.graham
+02.06.2017 16:00:55: Search - yoni.vanduren@office.ziggo.nl - Result: Not Found
+02.06.2017 16:01:37: Create - yoni.vanduren - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: yoni.vanduren@office.ziggo.nl
+02.06.2017 16:01:40: Search - yoni.vanduren@office.ziggo.nl - Result: Found username - yoni.vanduren
+02.06.2017 16:05:42: Search - ricky.forkuo@accenture.com - Result: Not Found
+02.06.2017 16:06:20: Create - ricky.forkuo - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: ricky.forkuo@accenture.com
+02.06.2017 16:06:23: Search - ricky.forkuo@accenture.com - Result: Found username - ricky.forkuo
+02.06.2017 16:06:28: Add to Group - ricky.forkuo - Result: was successfully added to the 'Accenture' group
+05.06.2017 11:20:37: Search - Dzianis_Paulavets@epam.com - Result: Found username - Dzianis_Paulavets
+05.06.2017 14:17:21: Search - kiranbsoudi.soudi@infosys.com - Result: Not Found
+05.06.2017 14:17:39: Create - kiranbsoudi.soudi - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: kiranbsoudi.soudi@infosys.com
+05.06.2017 14:17:44: Search - kiranbsoudi.soudi@infosys.com - Result: Found username - kiranbsoudi.soudi
+05.06.2017 14:17:54: Add to Group - kiranbsoudi.soudi - Result: was successfully added to the 'Infosys' group
+05.06.2017 14:19:14: Search - deepti.semwal@infosys.com - Result: Not Found
+05.06.2017 14:19:32: Create - deepti.semwal - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: deepti.semwal@infosys.com
+05.06.2017 14:19:39: Search - deepti.semwal@infosys.com - Result: Found username - deepti.semwal
+05.06.2017 14:19:51: Add to Group - deepti.semwal - Result: was successfully added to the 'Infosys' group
+05.06.2017 14:21:59: Search - michael.wensley@virginmedia.co.uk - Result: Not Found
+05.06.2017 14:22:17: Create - michael.wensley - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: michael.wensley@virginmedia.co.uk
+05.06.2017 14:22:17: Search - michael.wensley@virginmedia.co.uk - Result: Found username - michael.wensley
+05.06.2017 14:22:27: Add to Group - michael.wensley - Result: was successfully added to the 'Video Back Office Architecture & Engineering' group
+05.06.2017 14:22:27: Add to Group - michael.wensley - Result: was successfully added to the 'Virgin Media UK' group
+05.06.2017 14:22:28: Add to Group - michael.wensley - Result: was successfully added to the 'Virgin Media' group
+05.06.2017 14:23:30: Get Groups List - Directory: External
+05.06.2017 14:23:43: Add to Group - michael.wensley - Result: was successfully added to the 'CPE Integration 3' group
+05.06.2017 14:23:51: Search - michael.wensley@virginmedia.co.uk - Result: Found username - michael.wensley
+05.06.2017 14:25:27: Search - Himanshi Gupta - Result: Found username - hgupta.contractor
+05.06.2017 14:25:45: Add to Group - hgupta.contractor - Result: was successfully added to the 'pcteam_CQ5_RO' group
+05.06.2017 14:25:45: Add to Group - hgupta.contractor - Result: was successfully added to the 'pcteam_CQ5_RW' group
+05.06.2017 14:25:57: Add to Group - hgupta.contractor - Result: was successfully added to the 'pcteam_root_RO' group
+05.06.2017 14:26:19: Add to Group - hgupta.contractor - Result: was successfully added to the 'pcteam-CQ5_ro' group
+05.06.2017 14:28:05: Search - Prachi Mahajan - Result: Found username - prachi.mahajan
+05.06.2017 14:28:29: Add to Group - prachi.mahajan - Result: was successfully added to the 'pcteam-readonly' group
+05.06.2017 14:28:30: Add to Group - prachi.mahajan - Result: was successfully added to the 'pcteam_CQ5_RO' group
+05.06.2017 14:28:30: Add to Group - prachi.mahajan - Result: was successfully added to the 'pcteam_CQ5_RW' group
+05.06.2017 14:28:30: Add to Group - prachi.mahajan - Result: was successfully added to the 'pcteam_CQ5_trunk' group
+06.06.2017 11:17:36: Search - Raghavendra_lamani@infosys.com - Result: Found username - Raghavendra_lamani
+06.06.2017 11:24:49: Search - Aliaksandr_Raukuts@epam.com - Result: Found username - Aliaksandr_Raukuts
+06.06.2017 11:24:58: Add to Group - Aliaksandr_Raukuts - Result: was successfully added to the 'Mercury' group
+06.06.2017 11:25:48: Search - manfred.kaefer@upc.at - Result: Found username - manfred.kaefer
+06.06.2017 11:33:40: Search - Roy Vandeven - Result: Found username - roy.vandeven
+06.06.2017 11:37:45: Search - johan.grundstrom@virginmedia.co.uk - Result: Not Found
+06.06.2017 11:38:58: Create - johan.grundstrom - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: johan.grundstrom@virginmedia.co.uk
+06.06.2017 11:38:59: Search - johan.grundstrom@virginmedia.co.uk - Result: Found username - johan.grundstrom
+06.06.2017 11:39:27: Add to Group - johan.grundstrom - Result: was successfully added to the 'Virgin Media UK' group
+06.06.2017 11:39:28: Add to Group - johan.grundstrom - Result: was successfully added to the 'Virgin Media' group
+06.06.2017 12:02:51: Search - oeren@tmns.com - Result: Not Found
+06.06.2017 12:03:07: Create - oeren - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: oeren@tmns.com
+06.06.2017 12:03:10: Search - oeren@tmns.com - Result: Found username - oeren
+06.06.2017 12:03:14: Add to Group - oeren - Result: was successfully added to the 'TMNS' group
+06.06.2017 12:52:44: Search - jmanders@libertyglobal.com - Result: Found username - jmanders
+06.06.2017 12:53:12: Update - jmanders - Result: updated successfully
+06.06.2017 12:53:14: Search - jmanders@libertyglobal.com - Result: Found username - jmanders
+06.06.2017 12:53:22: Reset Password - jmanders - Reset password link sent
+06.06.2017 17:20:10: Search - ssalam.contractor@libertyglobal.com - Result: Found username - ssalam.contractor
+06.06.2017 17:24:42: Search - akhigarg@libertyglobal.com - Result: Not Found
+06.06.2017 17:24:57: Create - akhigarg - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: akhigarg@libertyglobal.com
+06.06.2017 17:24:58: Search - akhigarg@libertyglobal.com - Result: Found username - akhigarg
+06.06.2017 17:27:55: Search - aamarghioalei.contractor@libertyglobal.com - Result: Not Found
+06.06.2017 17:28:14: Create - aamarghioalei.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: aamarghioalei.contractor@libertyglobal.com
+06.06.2017 17:28:14: Search - aamarghioalei.contractor@libertyglobal.com - Result: Found username - aamarghioalei.contractor
+06.06.2017 17:31:27: Search - cheryl.fraser@virginmedia.co.uk - Result: Not Found
+06.06.2017 17:31:43: Create - cheryl.fraser - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: cheryl.fraser@virginmedia.co.uk
+06.06.2017 17:31:43: Search - cheryl.fraser@virginmedia.co.uk - Result: Found username - cheryl.fraser
+06.06.2017 17:34:25: Add to Group - cheryl.fraser - Result: was successfully added to the 'Virgin Media UK' group
+06.06.2017 17:34:26: Add to Group - cheryl.fraser - Result: was successfully added to the 'Virgin Media' group
+06.06.2017 17:38:33: Search - twestland@libertyglobal.com - Result: Not Found
+06.06.2017 17:38:47: Create - twestland - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: twestland@libertyglobal.com
+06.06.2017 17:38:47: Search - twestland@libertyglobal.com - Result: Found username - twestland
+06.06.2017 17:39:16: Search - dbartoccelli.contractor@libertyglobal.com - Result: Not Found
+06.06.2017 17:39:37: Create - dbartoccelli.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: dbartoccelli.contractor@libertyglobal.com
+06.06.2017 17:39:37: Search - dbartoccelli.contractor@libertyglobal.com - Result: Found username - dbartoccelli.contractor
+06.06.2017 17:40:05: Search - tng.contractor@libertyglobal.com - Result: Not Found
+06.06.2017 17:40:31: Create - tng.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: tng.contractor@libertyglobal.com
+06.06.2017 17:40:32: Search - tng.contractor@libertyglobal.com - Result: Found username - tng.contractor
+06.06.2017 17:41:52: Search - kaarthick.r@prodapt.com - Result: Not Found
+06.06.2017 17:42:16: Create - kaarthick.r - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: kaarthick.r@prodapt.com
+06.06.2017 17:42:20: Search - kaarthick.r@prodapt.com - Result: Found username - kaarthick.r
+06.06.2017 17:42:25: Add to Group - kaarthick.r - Result: was successfully added to the 'Prodapt' group
+06.06.2017 17:42:51: Update - kaarthick.r - Result: updated successfully
+06.06.2017 17:44:51: Search - andre.schulz@unitymedia.de - Result: Not Found
+06.06.2017 17:45:37: Create - andre.schulz - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: andre.schulz@unitymedia.de
+06.06.2017 17:45:37: Search - andre.schulz@unitymedia.de - Result: Found username - andre.schulz
+06.06.2017 17:45:46: Add to Group - andre.schulz - Result: was successfully added to the 'Unity Media DE' group
+06.06.2017 17:45:46: Add to Group - andre.schulz - Result: was successfully added to the 'Unity Media' group
+06.06.2017 17:46:35: Search - akansha_tiwari@infosys.com - Result: Found username - akansha_tiwari
+06.06.2017 18:52:47: Search - ecoria.contractor@libertyglobal.com - Result: Found username - ecoria.contractor
+07.06.2017 11:13:57: Search - Sanjeeva Rayudu - Result: Found username - sanjeevarayudu.t
+07.06.2017 11:14:14: Add to Group - sanjeevarayudu.t - Result: was successfully added to the 'bitbucket-user' group
+07.06.2017 12:00:48: Search - Erol Suleyman - Result: Found username - esuleyman
+07.06.2017 12:51:18: Search - daniel.martin@irdeto.com - Result: Found username - daniel.martin
+07.06.2017 12:51:59: Reset Password - daniel.martin - Reset password link sent
+07.06.2017 12:52:12: Search - nerea.gil@irdeto.com - Result: Not Found
+07.06.2017 12:52:29: Create - nerea.gil - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: nerea.gil@irdeto.com
+07.06.2017 12:52:34: Search - nerea.gil@irdeto.com - Result: Found username - nerea.gil
+07.06.2017 12:52:53: Add to Group - nerea.gil - Result: was successfully added to the 'HZN4-Irdeto' group
+07.06.2017 12:53:50: Search - daniel.martin@irdeto.com - Result: Found username - daniel.martin
+07.06.2017 12:54:08: Update - daniel.martin - Result: updated successfully
+07.06.2017 13:22:13: Search - Nadzeya_Dzivinets - Result: Not Found
+07.06.2017 13:53:41: Search - devika.phutane@infosys.com - Result: Found username - devika.phutane
+07.06.2017 13:54:11: Update - devika.phutane - Result: updated successfully
+07.06.2017 13:54:13: Reset Password - devika.phutane - Reset password link sent
+07.06.2017 13:56:26: Search - Logesh PS - Result: Not Found
+07.06.2017 14:54:39: Search - akhigarg@libertyglobal.com - Result: Found username - akhigarg
+07.06.2017 17:05:17: Search - elena.radu@ericsson.com - Result: Found username - elena.radu
+07.06.2017 17:07:50: Reset Password - elena.radu - Reset password link sent
+07.06.2017 17:36:59: Search - elena.radu@ericsson.com - Result: Found username - elena.radu
+07.06.2017 17:37:13: Update - elena.radu - Result: updated successfully
+07.06.2017 17:37:19: Reset Password - elena.radu - Reset password link sent
+07.06.2017 17:40:16: Search - Hannu.Lantto@upc.ch - Result: Not Found
+07.06.2017 17:41:14: Create - Hannu.Lantto - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Hannu.Lantto@upc.ch
+07.06.2017 17:41:14: Search - Hannu.Lantto@upc.ch - Result: Found username - Hannu.Lantto
+07.06.2017 17:41:24: Add to Group - Hannu.Lantto - Result: was successfully added to the 'UPC CH' group
+07.06.2017 17:51:25: Search - manisha.devi@infosys.com - Result: Not Found
+07.06.2017 17:51:38: Create - manisha.devi - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: manisha.devi@infosys.com
+07.06.2017 17:51:41: Search - manisha.devi@infosys.com - Result: Found username - manisha.devi
+07.06.2017 17:51:47: Add to Group - manisha.devi - Result: was successfully added to the 'Infosys' group
+07.06.2017 17:53:32: Search - sunita_jangid@infosys.com - Result: Found username - Sunita_Jangid
+07.06.2017 17:53:45: Search - geethamanjari_s@infosys.com - Result: Found username - Geethamanjari_S
+07.06.2017 17:55:34: Search - sunita_jangid@infosys.com - Result: Found username - Sunita_Jangid
+07.06.2017 18:01:52: Search - bfrunza.contractor@libertyglobal.com - Result: Found username - bfrunza.contractor
+07.06.2017 18:01:58: Search - bfrunza.contractor - Result: Found username - bfrunza.contractor
+07.06.2017 18:02:54: Search - elena.radu - Result: Found username - elena.radu
+07.06.2017 18:03:14: Update - elena.radu - Result: updated successfully
+08.06.2017 09:27:33: Search - Ruchika.Nagpal - Result: Found username - Ruchika.Nagpal
+08.06.2017 09:27:42: Add to Group - Ruchika.Nagpal - Result: was successfully added to the 'cpe-si' group
+08.06.2017 09:27:50: Add to Group - Ruchika.Nagpal - Result: was successfully added to the 'onemt' group
+08.06.2017 09:28:03: Add to Group - Ruchika.Nagpal - Result: was successfully added to the 'bitbucket-user' group
+08.06.2017 11:50:04: Search - Ronald Auwens - Result: Found username - rauwens
+08.06.2017 14:25:07: Search - Ivan Trifonov - Result: Found username - Ivan_Trifonov
+08.06.2017 14:25:16: Update - Ivan_Trifonov - Result: updated successfully
+08.06.2017 14:34:21: Search - Auto_LIBG-140_Sync - Result: Found username - Auto_LIBG-140_Sync
+08.06.2017 14:38:15: Reset Password - Auto_LIBG-140_Sync - Reset password link sent
+08.06.2017 14:42:02: Search - lee.jones@virginmedia.co.uk] - Result: Not Found
+08.06.2017 14:42:24: Create - lee.jones - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: lee.jones@virginmedia.co.uk
+08.06.2017 14:42:27: Search - lee.jones@virginmedia.co.uk - Result: Found username - lee.jones
+08.06.2017 14:42:41: Add to Group - lee.jones - Result: was successfully added to the 'Virgin Media' group
+08.06.2017 14:42:41: Add to Group - lee.jones - Result: was successfully added to the 'Virgin Media UK' group
+08.06.2017 14:43:30: Search - kalyani.inamdar@virginmedia.co.uk - Result: Not Found
+08.06.2017 14:43:58: Create - kalyani.inamdar - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: kalyani.inamdar@virginmedia.co.uk
+08.06.2017 14:43:59: Search - kalyani.inamdar@virginmedia.co.uk - Result: Found username - kalyani.inamdar
+08.06.2017 14:44:08: Add to Group - kalyani.inamdar - Result: was successfully added to the 'Virgin Media UK' group
+08.06.2017 14:44:09: Add to Group - kalyani.inamdar - Result: was successfully added to the 'Virgin Media' group
+08.06.2017 14:44:41: Search - bhushan.pathak@virginmedia.co.uk - Result: Not Found
+08.06.2017 14:45:05: Create - bhushan.pathak - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: bhushan.pathak@virginmedia.co.uk
+08.06.2017 14:45:07: Search - bhushan.pathak@virginmedia.co.uk - Result: Found username - bhushan.pathak
+08.06.2017 14:45:14: Add to Group - bhushan.pathak - Result: was successfully added to the 'Virgin Media UK' group
+08.06.2017 14:45:15: Add to Group - bhushan.pathak - Result: was successfully added to the 'Virgin Media' group
+08.06.2017 14:46:11: Search - oal-nashi.contractor@libertyglobal.com - Result: Found username - oal-nashi.contractor
+09.06.2017 14:39:05: Search - Auto_LIBG-140_Sync - Result: Found username - Auto_LIBG-140_Sync
+09.06.2017 14:51:31: Search - Nathuriga_S@infosys.com - Result: Found username - Nathuriga_S
+09.06.2017 15:05:31: Search - Maksim Chernyshou (Epam) - Result: Found username - Maksim_Chernyshou
+09.06.2017 15:06:55: Search - Paul Scharrenburg - Result: Found username - pscharrenburg
+09.06.2017 16:49:07: Search - romertens@libertyglobal.com - Result: Not Found
+09.06.2017 16:49:27: Create - romertens - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: romertens@libertyglobal.com
+09.06.2017 16:49:27: Search - romertens@libertyglobal.com - Result: Found username - romertens
+09.06.2017 16:57:20: Search - Christine.Damm@unitymedia.de - Result: Found username - christine.damm
+09.06.2017 16:58:47: Search - Andre.Schulz@unitymedia.de - Result: Found username - andre.schulz
+09.06.2017 16:59:13: Search - Christine.Damm@unitymedia.de - Result: Found username - christine.damm
+09.06.2017 17:00:02: Search - Ute.Ahnert@unitymedia.de - Result: Not Found
+09.06.2017 17:00:31: Create - Ute.Ahnert - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Ute.Ahnert@unitymedia.de
+09.06.2017 17:00:31: Search - Ute.Ahnert@unitymedia.de - Result: Found username - Ute.Ahnert
+09.06.2017 17:00:55: Search - Natalia.Goetz@unitymedia.de - Result: Not Found
+09.06.2017 17:01:09: Create - Natalia.Goetz - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Natalia.Goetz@unitymedia.de
+09.06.2017 17:01:10: Search - Natalia.Goetz@unitymedia.de - Result: Found username - Natalia.Goetz
+09.06.2017 17:01:21: Search - Account 'Natalia.Goetz' was successfully created .Reset password link was sent to Natalia.Goetz@unitymedia.de - Result: Not Found
+09.06.2017 17:01:39: Search - Neri.Kranz@unitymedia.de - Result: Not Found
+09.06.2017 17:01:52: Create - Neri.Kranz - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Neri.Kranz@unitymedia.de
+09.06.2017 17:01:54: Search - Neri.Kranz@unitymedia.de - Result: Found username - Neri.Kranz
+09.06.2017 17:02:18: Search - Scott.York@unitymedia.de - Result: Not Found
+09.06.2017 17:02:35: Create - Scott.York - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Scott.York@unitymedia.de
+09.06.2017 17:02:37: Search - Scott.York@unitymedia.de - Result: Found username - Scott.York
+09.06.2017 17:03:05: Search - Daniel.Mittmann@unitymedia.de - Result: Not Found
+09.06.2017 17:03:21: Create - Daniel.Mittmann - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Daniel.Mittmann@unitymedia.de
+09.06.2017 17:03:25: Search - Daniel.Mittmann@unitymedia.de - Result: Found username - Daniel.Mittmann
+09.06.2017 17:03:37: Search - Martina.Piaszczynski@unitymedia.de - Result: Not Found
+09.06.2017 17:03:58: Create - Martina.Piaszczynski - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Martina.Piaszczynski@unitymedia.de
+09.06.2017 17:04:00: Search - Martina.Piaszczynski@unitymedia.de - Result: Found username - Martina.Piaszczynski
+09.06.2017 17:04:23: Search - Harald.Beck@unitymedia.de - Result: Not Found
+09.06.2017 17:04:39: Create - Harald.Beck - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Harald.Beck@unitymedia.de
+09.06.2017 17:04:42: Search - Harald.Beck@unitymedia.de - Result: Found username - Harald.Beck
+09.06.2017 17:05:13: Search - jens.struemper@unitymedia.de - Result: Not Found
+09.06.2017 17:05:37: Create - jens.struemper - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: jens.struemper@unitymedia.de
+09.06.2017 17:05:38: Search - jens.struemper@unitymedia.de - Result: Found username - jens.struemper
+09.06.2017 17:06:04: Search - irina.fischer@unitymedia.de - Result: Not Found
+09.06.2017 17:06:26: Create - irina.fischer - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: irina.fischer@unitymedia.de
+09.06.2017 17:06:27: Search - irina.fischer@unitymedia.de - Result: Found username - irina.fischer
+09.06.2017 17:11:32: Search - Aleksandar Simsic - Result: Found username - asimsic
+09.06.2017 17:22:06: Search - damarys.prado@e.vtr.cl - Result: Not Found
+09.06.2017 17:22:28: Create - damarys.prado - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: damarys.prado@e.vtr.cl
+09.06.2017 17:22:32: Search - damarys.prado@e.vtr.cl - Result: Found username - damarys.prado
+09.06.2017 17:29:03: Search - astevens.contractor@libertyglobal.com - Result: Found username - astevens.contractor
+09.06.2017 17:29:32: Add to Group - astevens.contractor - Result: was successfully added to the 'CTO' group
+09.06.2017 17:29:32: Add to Group - astevens.contractor - Result: was successfully added to the 'CTO Broadcast Team (Contractors)' group
+09.06.2017 17:52:25: Search - carl.hedges@infosys.com - Result: Not Found
+09.06.2017 18:00:01: Create - carl.hedges - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: carl.hedges@infosys.com
+09.06.2017 18:00:05: Search - carl.hedges@infosys.com - Result: Found username - carl.hedges
+09.06.2017 18:00:14: Add to Group - carl.hedges - Result: was successfully added to the 'Infosys' group
+09.06.2017 18:02:44: Search - shjadhav@libertyglobal.com - Result: Found username - shjadhav
+09.06.2017 18:02:52: Add to Group - shjadhav - Result: was successfully added to the 'bitbucket-user' group
+09.06.2017 18:08:12: Search - Sergey Zinovyev - Result: Found username - szinovyev
+09.06.2017 18:18:26: Search - Kirti Agarwal (Infosys) - Result: Found username - Kirti.Agarwal01
+09.06.2017 18:18:36: Add to Group - Kirti.Agarwal01 - Result: was successfully added to the 'AEM Developer' group
+11.06.2017 12:07:10: Search - Ronald Auwens - Result: Found username - rauwens
+11.06.2017 13:38:59: Search - Karina Guevara (VTR) - Result: Found username - karina.guevara
+11.06.2017 14:14:03: Search - Abbin Abraham - Result: Found username - ababraham
+11.06.2017 14:15:10: Search - Abin Abraham - Result: Not Found
+11.06.2017 14:15:12: Search - Abbin Abraham - Result: Found username - ababraham
+11.06.2017 14:15:56: Search - ababraham@libertyglobal.com - Result: Found username - ababraham
+11.06.2017 14:16:09: Search - ababraham@libertyglobal.com - Result: Found username - ababraham
+11.06.2017 15:29:31: Search - logesh.s@infosys.com - Result: Found username - logesh.s
+11.06.2017 15:45:25: Search - Martin van Pelt - Result: Found username - mvanpelt
+12.06.2017 08:45:11: Search - shobsingh.contractor@libertyglobal.com - Result: Found username - shobsingh.contractor
+12.06.2017 08:46:27: Search - Marco Brenke - Result: Found username - Marco.Brenke
+12.06.2017 08:46:43: Search - Casper Eisma - Result: Found username - ceisma
+12.06.2017 08:47:13: Search - Dan Ellis - Result: Found username - dellis
+12.06.2017 08:48:22: Search - shobsingh.contractor@libertyglobal.com - Result: Found username - shobsingh.contractor
+12.06.2017 11:07:49: Search - Oleg Sigida - Result: Found username - osigida
+12.06.2017 12:05:17: Search - Oleg kru - Result: Found username - oleg_krutih
+12.06.2017 12:05:58: Search - artsem_radkevich - Result: Found username - artsem_radkevich
+12.06.2017 12:26:44: Search - Oleg kru - Result: Found username - oleg_krutih
+12.06.2017 12:26:47: Search - Oleg kru - Result: Found username - oleg_krutih
+12.06.2017 13:55:01: Search - moagca@unitid.nl - Result: Not Found
+12.06.2017 13:55:24: Create - moagca - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: moagca@unitid.nl
+12.06.2017 13:55:30: Search - moagca@unitid.nl - Result: Found username - moagca
+12.06.2017 13:55:38: Add to Group - moagca - Result: was successfully added to the 'UNITiD' group
+12.06.2017 13:58:12: Search - Abhishek_Hingwasiya@infosys.com - Result: Not Found
+12.06.2017 13:58:25: Create - Abhishek_Hingwasiya - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Abhishek_Hingwasiya@infosys.com
+12.06.2017 13:58:29: Search - Abhishek_Hingwasiya@infosys.com - Result: Found username - Abhishek_Hingwasiya
+12.06.2017 13:58:38: Add to Group - Abhishek_Hingwasiya - Result: was successfully added to the 'Infosys' group
+12.06.2017 13:58:58: Search - Praveen_S18@infosys.com - Result: Not Found
+12.06.2017 13:59:16: Create - Praveen_S18 - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Praveen_S18@infosys.com
+12.06.2017 13:59:20: Search - Praveen_S18@infosys.com - Result: Found username - Praveen_S18
+12.06.2017 13:59:26: Add to Group - Praveen_S18 - Result: was successfully added to the 'Infosys' group
+12.06.2017 15:01:21: Search - jmotte.contractor@libertyglobal.com - Result: Not Found
+12.06.2017 15:02:19: Create - jmotte.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: jmotte.contractor@libertyglobal.com
+12.06.2017 15:02:20: Search - jmotte.contractor@libertyglobal.com - Result: Found username - jmotte.contractor
+12.06.2017 15:04:19: Search - Christine.Damm@unitymedia.de - Result: Found username - christine.damm
+12.06.2017 15:04:29: Search - Ute.Ahnert@unitymedia.de - Result: Found username - Ute.Ahnert
+12.06.2017 15:04:37: Search - Natalia.Goetz@unitymedia.de - Result: Found username - Natalia.Goetz
+12.06.2017 15:04:45: Search - Neri.Kranz@unitymedia.de - Result: Found username - Neri.Kranz
+12.06.2017 15:04:54: Search - Scott.York@unitymedia.de - Result: Found username - Scott.York
+12.06.2017 16:25:49: Search - fmemon@lgi.com - Result: Found username - fmemon
+12.06.2017 16:26:03: Reset Password - fmemon - Reset password link sent
+12.06.2017 16:28:34: Search - sheena.k@prodapt.com - Result: Not Found
+12.06.2017 16:29:09: Create - sheena.k - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: sheena.k@prodapt.com
+12.06.2017 16:29:12: Search - sheena.k@prodapt.com - Result: Found username - sheena.k
+12.06.2017 16:29:43: Add to Group - sheena.k - Result: was successfully added to the 'Prodapt' group
+12.06.2017 16:33:57: Search - mdidde.contractor@libertyglobal.com - Result: Not Found
+12.06.2017 16:34:14: Create - mdidde.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: mdidde.contractor@libertyglobal.com
+12.06.2017 16:34:15: Search - mdidde.contractor@libertyglobal.com - Result: Found username - mdidde.contractor
+12.06.2017 16:35:02: Add to Group - mdidde.contractor - Result: was successfully added to the 'bitbucket-user' group
+12.06.2017 16:35:02: Add to Group - mdidde.contractor - Result: was successfully added to the 'CTO' group
+12.06.2017 16:35:03: Add to Group - mdidde.contractor - Result: was successfully added to the 'CTO Broadcast Team' group
+12.06.2017 16:35:03: Add to Group - mdidde.contractor - Result: was successfully added to the 'CTO SMT' group
+12.06.2017 16:35:04: Add to Group - mdidde.contractor - Result: was successfully added to the 'Helios' group
+12.06.2017 16:35:04: Add to Group - mdidde.contractor - Result: was successfully added to the 'Liberty Global Pace Dawn JIRA User' group
+12.06.2017 16:35:05: Create Group - Video Back Office Architecture & Engineering - Result: group successfully created
+12.06.2017 16:35:05: Add to Group - mdidde.contractor - Result: was successfully added to the 'Video Back Office Architecture & Engineering' group
+12.06.2017 16:35:06: Search - mdidde.contractor@libertyglobal.com - Result: Found username - mdidde.contractor
+12.06.2017 20:32:22: Search - mdidde.contractor@libertyglobal.com - Result: Found username - mdidde.contractor
+12.06.2017 20:33:36: Add to Group - mdidde.contractor - Result: was successfully added to the 'CTO Broadcast Team (Contractors)' group
+12.06.2017 20:33:48: Add to Group - mdidde.contractor - Result: was successfully added to the 'Video Back Office Architecture & Engineering' group
+12.06.2017 20:35:14: Search - djamieson.contractor@libertyglobal.com - Result: Found username - djamieson.contractor
+12.06.2017 20:35:26: Reset Password - djamieson.contractor - Reset password link sent
+12.06.2017 20:39:01: Search - r,lange - Result: Not Found
+12.06.2017 20:39:08: Search - r.lange - Result: Found username - R.Lange
+13.06.2017 08:41:46: Search - Preethi_Lakshmi@infosys.com - Result: Not Found
+13.06.2017 08:42:03: Create - Preethi_Lakshmi - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: Preethi_Lakshmi@infosys.com
+13.06.2017 08:42:06: Search - Preethi_Lakshmi@infosys.com - Result: Found username - Preethi_Lakshmi
+13.06.2017 08:42:15: Add to Group - Preethi_Lakshmi - Result: was successfully added to the 'Infosys' group
+13.06.2017 08:44:29: Search - rmcneilly@cwc.com - Result: Not Found
+13.06.2017 08:44:42: Create - rmcneilly - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: rmcneilly@cwc.com
+13.06.2017 08:44:45: Search - rmcneilly@cwc.com - Result: Found username - rmcneilly
+13.06.2017 08:44:57: Add to Group - rmcneilly - Result: was successfully added to the 'CWC' group
+13.06.2017 08:48:01: Search - Jannis.Kuschel@unitymedia.de - Result: Not Found
+13.06.2017 08:56:53: Create - Jannis.Kuschel - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Jannis.Kuschel@unitymedia.de
+13.06.2017 08:56:53: Search - Jannis.Kuschel@unitymedia.de - Result: Found username - Jannis.Kuschel
+13.06.2017 08:57:04: Add to Group - Jannis.Kuschel - Result: was successfully added to the 'Unity Media' group
+13.06.2017 08:57:04: Add to Group - Jannis.Kuschel - Result: was successfully added to the 'Unity Media DE' group
+13.06.2017 08:57:15: Search - Frank.Steinbeck@unitymedia.de - Result: Found username - frank.steinbeck
+13.06.2017 08:57:44: Search - Andreas.Klostermann@unitymedia.de - Result: Not Found
+13.06.2017 08:58:01: Create - Andreas.Klostermann - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Andreas.Klostermann@unitymedia.de
+13.06.2017 08:58:01: Search - Andreas.Klostermann@unitymedia.de - Result: Found username - Andreas.Klostermann
+13.06.2017 08:58:18: Add to Group - Andreas.Klostermann - Result: was successfully added to the 'Unity Media' group
+13.06.2017 08:58:18: Add to Group - Andreas.Klostermann - Result: was successfully added to the 'Unity Media DE' group
+13.06.2017 08:58:31: Search - Florian.Pluecker@unitymedia.de - Result: Not Found
+13.06.2017 08:58:44: Create - Florian.Pluecker - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Florian.Pluecker@unitymedia.de
+13.06.2017 08:58:45: Search - Florian.Pluecker@unitymedia.de - Result: Found username - Florian.Pluecker
+13.06.2017 08:58:51: Add to Group - Florian.Pluecker - Result: was successfully added to the 'Unity Media DE' group
+13.06.2017 08:58:52: Add to Group - Florian.Pluecker - Result: was successfully added to the 'Unity Media' group
+13.06.2017 08:59:14: Search - Michael.Henrich@unitymedia.de - Result: Not Found
+13.06.2017 08:59:29: Create - Michael.Henrich - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Michael.Henrich@unitymedia.de
+13.06.2017 08:59:30: Search - Michael.Henrich@unitymedia.de - Result: Found username - Michael.Henrich
+13.06.2017 08:59:39: Add to Group - Michael.Henrich - Result: was successfully added to the 'Unity Media' group
+13.06.2017 08:59:39: Add to Group - Michael.Henrich - Result: was successfully added to the 'Unity Media DE' group
+13.06.2017 08:59:53: Search - Tabea.Henrich@unitymedia.de - Result: Not Found
+13.06.2017 09:00:13: Create - Tabea.Henrich - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: Tabea.Henrich@unitymedia.de
+13.06.2017 09:00:13: Search - Tabea.Henrich@unitymedia.de - Result: Found username - Tabea.Henrich
+13.06.2017 09:00:20: Add to Group - Tabea.Henrich - Result: was successfully added to the 'Unity Media DE' group
+13.06.2017 09:00:20: Add to Group - Tabea.Henrich - Result: was successfully added to the 'Unity Media' group
+13.06.2017 09:00:35: Search - shibaaparveen.m@prodapt.com - Result: Not Found
+13.06.2017 09:01:56: Create - shibaaparveen.m - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: shibaaparveen.m@prodapt.com
+13.06.2017 09:01:59: Search - shibaaparveen.m@prodapt.com - Result: Found username - shibaaparveen.m
+13.06.2017 09:02:06: Add to Group - shibaaparveen.m - Result: was successfully added to the 'Prodapt' group
+13.06.2017 09:02:28: Search - gbhatia.contractor@libertyglobal.com - Result: Not Found
+13.06.2017 09:02:52: Create - gbhatia.contractor - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: gbhatia.contractor@libertyglobal.com
+13.06.2017 09:02:52: Search - gbhatia.contractor@libertyglobal.com - Result: Found username - gbhatia.contractor
+13.06.2017 09:03:11: Search - mustafa.sicak@virginmedia.co.uk - Result: Not Found
+13.06.2017 09:03:45: Create - mustafa.sicak - Result: successfully created in AD directory and added to the 'jira-users' group. Email notification about the password sent to: mustafa.sicak@virginmedia.co.uk
+13.06.2017 09:03:46: Search - mustafa.sicak@virginmedia.co.uk - Result: Found username - mustafa.sicak
+13.06.2017 09:04:15: Add to Group - mustafa.sicak - Result: was successfully added to the 'Virgin Media UK' group
+13.06.2017 09:04:16: Add to Group - mustafa.sicak - Result: was successfully added to the 'Virgin Media' group
+13.06.2017 09:04:28: Search - bala.subramanian@infosys.com - Result: Not Found
+13.06.2017 09:04:46: Create - bala.subramanian - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: bala.subramanian@infosys.com
+13.06.2017 09:04:48: Search - bala.subramanian@infosys.com - Result: Found username - bala.subramanian
+13.06.2017 09:04:52: Add to Group - bala.subramanian - Result: was successfully added to the 'Infosys' group
+13.06.2017 09:05:02: Search - Ute.Ahnert@unitymedia.de  - Result: Found username - Ute.Ahnert
+13.06.2017 09:05:12: Search - Neri.Kranz@unitymedia.de  - Result: Found username - Neri.Kranz
+13.06.2017 09:05:20: Search - Scott.York@unitymedia.de  - Result: Found username - Scott.York
+13.06.2017 09:06:15: Search - Frank.Steinbeck@unitymedia.de - Result: Found username - frank.steinbeck
+13.06.2017 09:16:24: Search - Jannis.Kuschel@unitymedia.de - Result: Found username - Jannis.Kuschel
+13.06.2017 10:27:30: Search - artem_radkevich@emam.com - Result: Not Found
+13.06.2017 10:27:39: Search - artem_radkevich@epam.com - Result: Not Found
+13.06.2017 10:27:42: Search - artsem_radkevich@epam.com - Result: Found username - test0321
+13.06.2017 10:30:29: Search - test0321 - Result: Found username - test0321
+13.06.2017 11:14:39: Search - Jairo Gomez - Result: Found username - jagomez
+13.06.2017 11:41:09: Search - jmotte.contractor@libertyglobal.com - Result: Found username - jmotte.contractor
+13.06.2017 11:41:29: Update - jmotte.contractor - Result: updated successfully
+13.06.2017 11:44:26: Create Group - Helios ADB - Result: group successfully created
+13.06.2017 11:44:30: Create Group - Helios ADB - Result: group successfully created
+13.06.2017 12:53:38: Search - jchapman - Result: Found username - jchapman
+13.06.2017 13:03:35: Search - jafc bot - Result: Not Found
+13.06.2017 13:03:46: Search - jafc_bot - Result: Found username - JAFC_BOT
+13.06.2017 13:05:22: Update - JAFC_BOT - Result: updated successfully
+13.06.2017 13:07:17: Search - Jairo Gomez - Result: Found username - jagomez
+13.06.2017 13:13:54: Search - oleg kru - Result: Found username - oleg_krutih
+13.06.2017 13:16:31: Search - apichaivel@libertyglobal.com - Result: Not Found
+13.06.2017 13:21:39: Search - Saurav.Kumar23@infosys.com - Result: Found username - saurav.kumar23
+13.06.2017 13:21:57: Update - saurav.kumar23 - Result: updated successfully
+13.06.2017 13:22:00: Reset Password - saurav.kumar23 - Reset password link sent
+13.06.2017 13:25:24: Search - neeraj.o@infosys.com - Result: Not Found
+13.06.2017 13:25:54: Search - neeraj.o - Result: Not Found
+13.06.2017 13:26:10: Search - neeraj Othayoth - Result: Not Found
+13.06.2017 13:27:07: Search - neeraj.o@infosys.com - Result: Not Found
+13.06.2017 13:27:44: Create - neeraj.o - Result: successfully created in External directory and added to the 'jira-users' group. Email notification about the password sent to: neeraj.o@infosys.com
+13.06.2017 13:27:49: Search - neeraj.o@infosys.com - Result: Found username - neeraj.o
+13.06.2017 13:28:04: Add to Group - neeraj.o - Result: was successfully added to the 'Infosys' group
+13.06.2017 13:28:16: Add to Group - neeraj.o - Result: was successfully added to the 'pcteam-readonly' group
+13.06.2017 13:28:17: Add to Group - neeraj.o - Result: was successfully added to the 'pcteam_CQ5_RO' group
+13.06.2017 13:28:17: Add to Group - neeraj.o - Result: was successfully added to the 'pcteam_CQ5_RW' group
+13.06.2017 17:08:16: Search - Gulsen Dumral - Result: Found username - gdumral.contractor
+13.06.2017 17:40:50: Search - dgoffin - Result: Found username - dgoffin
+14.06.2017 10:40:39: Search - Jairo Gomez - Result: Found username - jagomez
+14.06.2017 10:45:06: Search - apichaivel@libertyglobal.com - Result: Not Found
+14.06.2017 10:49:36: Get Groups List - Directory: External
+14.06.2017 10:49:47: Get Groups List - Directory: AD
+14.06.2017 10:51:10: Search - Ashok Pichaivel - Result: Found username - Ashok_Pichaivel
+14.06.2017 13:39:31: Search - Akhil Garg - Result: Found username - akhigarg
+15.06.2017 10:46:01: Search - Nadia Young - Result: Found username - nyoung.contractor
+15.06.2017 10:48:37: Search - Arjun Sharma - Result: Found username - arsharma.contractor

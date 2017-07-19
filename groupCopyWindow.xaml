@@ -1,0 +1,28 @@
+﻿<Window x:Class="CrowdUserManager.groupCopyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrowdUserManager"
+        mc:Ignorable="d"
+        Title="groupCopyWindow" Height="210.538" Width="633.104" Icon="media/index.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Topmost="True" WindowStyle="None" BorderBrush="#FF46B9D1" BorderThickness="1">
+    <Grid Background="#FF3F3D41">
+        <TextBox x:Name="searchTextBox" HorizontalAlignment="Left" Height="26" Margin="353,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="2" BorderBrush="#FF46B9D1" Background="{x:Null}" SelectionBrush="{x:Null}" Foreground="White"/>
+        <Button x:Name="exitButton" Content="Exit" HorizontalAlignment="Left" Margin="546,170,0,0" VerticalAlignment="Top" Width="75" Click="button_Click" Background="{x:Null}" BorderBrush="#FFD17F46" BorderThickness="2" Foreground="White" Height="29"/>
+        <Label x:Name="currentUser" Content="Label" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top" Width="248" FontWeight="Bold" Foreground="White"/>
+        <ListBox x:Name="listBoxSearchUser" HorizontalAlignment="Left" Height="123" Margin="353,49,0,0" VerticalAlignment="Top" Width="268" Background="{x:Null}" BorderBrush="#FFD17F46" BorderThickness="2" Foreground="#FFD17F46"/>
+        <Button x:Name="searchButton" Content="Search" HorizontalAlignment="Left" Margin="545,17,-45,0" VerticalAlignment="Top" Width="76" Click="searchButton_Click" Background="{x:Null}" BorderBrush="#FF46B9D1" BorderThickness="2" Foreground="White" Height="26" IsDefault="True"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="123" Margin="10,49,0,0" VerticalAlignment="Top" Width="248" Background="{x:Null}" BorderBrush="#FF46B9D1" BorderThickness="2" Foreground="White" FontWeight="Bold"/>
+        <Button x:Name="copyGroupsButton" Content="&lt;&lt;&lt;" HorizontalAlignment="Left" Margin="283,89,0,0" VerticalAlignment="Top" Width="40" Height="30" Foreground="Red" FontWeight="Bold" FontFamily="SimHei" Background="{x:Null}" BorderBrush="{x:Null}" RenderTransformOrigin="0.5,0.5" FontSize="18" Click="copyGroupsButton_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.478"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>
